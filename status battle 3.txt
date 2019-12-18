@@ -1,0 +1,317 @@
+[16:06:12] FamSlayer: so
+[16:06:18] FamSlayer: i would like you lead on the toxic spikes pokemon
+[16:06:21] FamSlayer: and then click toxic spikes
+[16:06:25] FamSlayer: 3 times
+[16:06:34] Tan: 3 times?
+[16:06:37] FamSlayer: three times
+[16:06:44] Tan: why that? xD
+[16:06:53] FamSlayer: i know it only stacks twice
+[16:06:55] Tan: but ok
+[16:07:04] FamSlayer: i'm trying to get a better test case so i can write more robust code
+Tan sent out Chimaconda!
+FamSlayer sent out Astronite!
+Chimaconda floats in the air with its Air Balloon!
+It traced the foe's Contrary!
+
+Turn 1
+
+FamSlayer withdrew Astronite!
+FamSlayer sent out Chimaconda!
+Tan's Chimaconda used Toxic Spikes!
+Poison spikes were scattered all around your team's feet!
+
+Turn 2
+
+FamSlayer withdrew Chimaconda!
+FamSlayer sent out Laissure!
+Laissure was poisoned!
+Tan's Chimaconda used Toxic Spikes!
+Laissure was hurt by poison!
+
+Turn 3
+
+FamSlayer withdrew Laissure!
+FamSlayer sent out Inflagetah!
+Inflagetah was badly poisoned!
+Tan's Chimaconda used Toxic Spikes!
+But it failed!
+Inflagetah was hurt by poison!
+
+Turn 4
+
+[16:08:11] Tan: and now?
+[16:08:19] FamSlayer: let me pokemon die to tspikes poison
+Tan withdrew Chimaconda!
+[16:08:29] FamSlayer: i have clicked u-turn
+Tan sent out Beliaddon!
+Inflagetah's Attack fell!
+FamSlayer's Inflagetah used U-turn!
+Beliaddon took 10% damage!
+Inflagetah is hurt by its Life Orb!
+FamSlayer withdrew Inflagetah!
+FamSlayer sent out Laissure!
+Beliaddon restored a little HP using its Leftovers!
+Laissure restored a little HP using its Leftovers!
+Laissure was hurt by poison!
+
+Turn 5
+
+[16:08:42] FamSlayer: ok i'm gonna click EQ
+[16:08:49] FamSlayer: go into s51-a and just levitate until i die
+[16:09:01] FamSlayer: (do not attack, i MUST die to actual poison ticks)
+Tan withdrew Beliaddon!
+Tan sent out S51-A!
+FamSlayer's Laissure used Earthquake!
+But it doesn't affect S51-A...
+Laissure restored a little HP using its Leftovers!
+Laissure was hurt by poison!
+
+Turn 6
+
+[16:09:12] Tan: i mean
+[16:09:18] FamSlayer: do you only have attack moves
+[16:09:30] Tan: 1 flash cannon doesn't knock you out
+[16:09:35] FamSlayer: works for me
+[16:09:37] Tan: I have recover
+FamSlayer's Laissure used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Flash Cannon!
+Laissure took 34% damage!
+Laissure restored a little HP using its Leftovers!
+Laissure was hurt by poison!
+
+Turn 7
+
+[16:09:47] FamSlayer: ok just recover
+FamSlayer's Laissure used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Recover!
+But it failed!
+Laissure restored a little HP using its Leftovers!
+Laissure was hurt by poison!
+
+Turn 8
+
+FamSlayer's Laissure used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Recover!
+But it failed!
+Laissure restored a little HP using its Leftovers!
+Laissure was hurt by poison!
+
+Turn 9
+
+FamSlayer's Laissure used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Recover!
+But it failed!
+Laissure restored a little HP using its Leftovers!
+Laissure was hurt by poison!
+
+Turn 10
+
+FamSlayer's Laissure used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Recover!
+But it failed!
+Laissure restored a little HP using its Leftovers!
+Laissure was hurt by poison!
+
+Turn 11
+
+FamSlayer's Laissure used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Recover!
+But it failed!
+Laissure restored a little HP using its Leftovers!
+Laissure was hurt by poison!
+
+Turn 12
+
+FamSlayer's Laissure used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Recover!
+But it failed!
+Laissure restored a little HP using its Leftovers!
+Laissure was hurt by poison!
+Laissure fainted!
+FamSlayer sent out Inflagetah!
+
+Turn 13
+
+[16:10:12] FamSlayer: same thing
+FamSlayer's Inflagetah used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Flash Cannon!
+It's not very effective...
+Inflagetah took 20% damage!
+Inflagetah was hurt by poison!
+
+Turn 14
+
+FamSlayer's Inflagetah used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Flash Cannon!
+It's not very effective...
+Inflagetah took 21% damage!
+Inflagetah was hurt by poison!
+
+Turn 15
+
+[16:10:29] FamSlayer: recover now
+FamSlayer's Inflagetah used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Recover!
+But it failed!
+Inflagetah was hurt by poison!
+
+Turn 16
+
+FamSlayer's Inflagetah used Earthquake!
+But it doesn't affect S51-A...
+Tan's S51-A used Recover!
+But it failed!
+Inflagetah was hurt by poison!
+Inflagetah fainted!
+[16:10:43] FamSlayer: ok
+[16:10:52] FamSlayer: now we just kill everything
+[16:11:03] Tan: k
+[16:11:06] FamSlayer: i'm gonna click overheat from chima
+FamSlayer sent out Chimaconda!
+The poison spikes disappeared from around your team's feet!
+
+Turn 17
+
+[16:11:30] Tan: kill everything on my or your side?
+[16:11:35] FamSlayer: it doesn't matter
+[16:11:37] Tan: or just regular match?
+[16:11:42] FamSlayer: just want to get a "complete" battle
+Tan withdrew S51-A!
+Tan sent out Beliaddon!
+Chimaconda's Attack rose!
+FamSlayer's Chimaconda used Overheat!
+It's not very effective...
+Beliaddon took 24% damage!
+Chimaconda's Special Attack rose sharply!
+Beliaddon restored a little HP using its Leftovers!
+
+Turn 18
+
+[16:11:50] FamSlayer: do whatever you want until one of us is dead
+FamSlayer's Chimaconda used Overheat!
+It's not very effective...
+Beliaddon took 47% damage!
+Chimaconda's Special Attack rose sharply!
+Tan's Beliaddon used Knock Off!
+Chimaconda took 50% damage!
+Beliaddon knocked off Chimaconda's Choice Scarf!
+Beliaddon restored a little HP using its Leftovers!
+
+Turn 19
+
+FamSlayer's Chimaconda used Overheat!
+Beliaddon avoided the attack!
+Tan's Beliaddon used Stealth Rock!
+Pointed stones float in the air around your team!
+Beliaddon restored a little HP using its Leftovers!
+
+Turn 20
+
+FamSlayer's Chimaconda used Overheat!
+It's not very effective...
+A critical hit!
+Beliaddon took 42% damage!
+Chimaconda's Special Attack rose sharply!
+Beliaddon fainted!
+Tan sent out Nimflora!
+
+Turn 21
+
+Tan's Nimflora used Sticky Web!
+A sticky web has been laid out beneath your team's feet!
+FamSlayer's Chimaconda used Will-O-Wisp!
+Nimflora bounced the Will-O-Wisp back!
+But it failed!
+
+Turn 22
+
+Tan's Nimflora used Play Rough!
+It's not very effective...
+Chimaconda took 11% damage!
+FamSlayer's Chimaconda used Sludge Bomb!
+It's super effective!
+A critical hit!
+Nimflora hung on using its Focus Sash!
+Nimflora took 99% damage!
+
+Turn 23
+
+Tan's Nimflora used Endeavor!
+Chimaconda took 37% damage!
+FamSlayer's Chimaconda used Sludge Bomb!
+It's super effective!
+Nimflora took 0% damage!
+Nimflora fainted!
+Tan sent out Mismagius!
+
+Turn 24
+
+FamSlayer withdrew Chimaconda!
+FamSlayer sent out Astronite!
+Astronite was caught in a sticky web!
+Astronite's Speed fell!
+Pointed stones dug into Astronite!
+It traced the foe's Levitate!
+Tan's Mismagius used Shadow Ball!
+It's super effective!
+Astronite took 87% damage!
+Astronite fainted!
+Mismagius is hurt by its Life Orb!
+FamSlayer sent out Chimaconda!
+Chimaconda was caught in a sticky web!
+Chimaconda's Speed rose!
+Pointed stones dug into Chimaconda!
+Chimaconda fainted!
+FamSlayer sent out Syrentide!
+Syrentide was caught in a sticky web!
+Syrentide's Speed fell!
+Pointed stones dug into Syrentide!
+
+Turn 25
+
+Tan's Mismagius used Thunderbolt!
+It's super effective!
+A critical hit!
+Syrentide took 86% damage!
+Mismagius is hurt by its Life Orb!
+FamSlayer's Syrentide used Hyper Voice!
+But it doesn't affect Mismagius...
+
+Turn 26
+
+Tan's Mismagius used Thunderbolt!
+It's super effective!
+Syrentide took 1% damage!
+Syrentide fainted!
+Mismagius is hurt by its Life Orb!
+FamSlayer sent out S51-A!
+Pointed stones dug into S51-A!
+
+Turn 27
+
+Tan's Mismagius used Shadow Ball!
+It's super effective!
+S51-A took 56% damage!
+Mismagius is hurt by its Life Orb!
+FamSlayer's S51-A used Rapid Spin!
+But it doesn't affect Mismagius...
+S51-A restored a little HP using its Leftovers!
+
+Turn 28
+
+Tan's Mismagius used Shadow Ball!
+It's super effective!
+S51-A took 43% damage!
+S51-A fainted!
+
+Tan won!

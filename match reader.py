@@ -6,16 +6,82 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 
 
-player_1 = "Eneko"
-player_2 = "Poisseman"
+player_1 = "FamSlayer"
+player_2 = "Tan"
 
-f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
-##f = open("status battle 2.txt",'r').read()
+##f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
+f = open("status battle 3.txt",'r').read()
 
 
 
 def DeterminePoisonSource(nickname, trainer):
-    print("Determining poison source of " + nickname + " belonging to " + trainer)
+    opp_trainer = player_1
+    if trainer == player_1:
+        opp_trainer = player_2
+
+
+    p_lines = f.split(nickname[1:] + "fainted")[0].split('\n')
+
+    j = len(p_lines)
+    while(j > 0):
+        j-=1
+        if (nickname + " was badly poisoned!") in p_lines[j]:
+            k = j
+            while(k > 0):
+                k-=1
+                if opp_trainer in p_lines[k][:len(opp_trainer)+1] and " used " in p_lines[k]:
+                    print("MOVE LINE: " + p_lines[k])
+                    # loop through all possible TOXIC moves
+                    for move in MOVES_THAT_TOXIC:
+                        if move in p_lines[k]:
+                            burned_by_enemy = True
+                            enemy_nickname = p_lines[k].split(" used ")[0].split("'s ")[1]
+                            return (enemy_nickname, True)
+                        
+                # check to see if we got it from toxic spikes
+                elif (trainer + " sent out " + nickname) in p_lines[k]:
+                    print("poison inflicted by Toxic Spikes!")
+                    h = k
+                    while(h > 0):
+                        h-=1
+                        if " used Toxic Spikes!" in p_lines[h] and (opp_trainer + "'s") in p_lines[h] and "Poison spikes were scattered all around your team's feet!" in p_lines[h+1]:
+                            killer_nickname = p_lines[h].split(" used Toxic Spikes")[0].split("'s ")[-1]
+                            return (killer_nickname, True)
+
+                elif "Turn " in p_lines[k]:
+                    print("self inflicted toxic!")
+                    return (nickname, False)
+            break
+            
+        elif (nickname + " was poisoned!") in p_lines[j]:
+            k = j
+            while(k > 0):
+                k-=1
+                if opp_trainer in p_lines[k][:len(opp_trainer)+1] and " used " in p_lines[k]:
+                    # loop through all possible TOXIC moves
+                    for move in MOVES_THAT_POISON:
+                        if move in p_lines[k]:
+                            burned_by_enemy = True
+                            enemy_nickname = p_lines[k].split(" used ")[0].split("'s ")[1]
+                            return (enemy_nickname, True)
+                        
+                # check to see if we got it from toxic spikes
+                elif (trainer + " sent out " + nickname) in p_lines[k]:
+                    print("poison inflicted by Toxic Spikes!")
+                    h = k
+                    while(h > 0):
+                        h-=1
+                        if " used Toxic Spikes!" in p_lines[h] and (opp_trainer + "'s") in p_lines[h] and "Poison spikes were scattered all around your team's feet!" in p_lines[h+1]:
+                            killer_nickname = p_lines[h].split(" used Toxic Spikes")[0].split("'s ")[-1]
+                            return (killer_nickname, True)
+
+                elif "Turn " in p_lines[k]:
+                    print("self inflicted poison!")
+                    return (nickname, False)
+                
+            break
+
+    
     return (nickname, False)
 
 
@@ -34,12 +100,10 @@ def DetermineBurnSource(nickname, trainer):
     while(m > 0):
         m-=1
         # check enemy pokemon's attack and see if it could have burned
-        if opp_trainer in prev_lines[m] and " used " in prev_lines[m]:
+        if opp_trainer in prev_lines[m][:len(opp_trainer)+1] and " used " in prev_lines[m]:
             # loop through all possible burn moves
-            burned_by_enemy = False
             for move in MOVES_THAT_BURN:
                 if move in prev_lines[m]:
-                    burned_by_enemy = True
                     enemy_nickname = prev_lines[m].split(" used ")[0].split("'s ")[1]
                     return (enemy_nickname, True)
 
@@ -179,7 +243,10 @@ for c in components:
                         break
 
                 attack_line = DeterminePoisonSource(pokemon_nickname, trainer_name)
-                print(attack_line)
+                if(attack_line[1]):
+                    print(attack_line[0] + " got an indirect kill with poison damage!")
+                else:
+                    print(pokemon_nickname + " died a self-inflicted death to poison :(")
                 break
 
             # Death by burn
@@ -268,6 +335,10 @@ for c in components:
                 print("rockey helmet kill")
                 killer_nickname = lines[i].split(" is hurt by ")[-1].split("'s Rocky Helmet!")[0]
                 print(killer_nickname + " got a kill with Rocky Helmet!")
+                break
+
+            elif " was hit by recoil!" in lines[i]:
+                print("self kill to recoil move!")
                 break
 
         
