@@ -1,0 +1,327 @@
+Tan sent out Actan!
+FamSlayer sent out bella!
+bella's Attack fell!
+Actan's Attack fell!
+
+Turn 1
+
+Tan withdrew Actan!
+Tan sent out Majungold!
+FamSlayer's bella used Infernal Blade!
+It's not very effective...
+Majungold took 16% damage!
+bella is hurt by Majungold's Rocky Helmet!
+bella is hurt by its Life Orb!
+
+Turn 2
+
+Tan withdrew Majungold!
+Tan sent out Garlikid!
+FamSlayer's bella used Earthquake!
+It's not very effective...
+Garlikid took 20% damage!
+bella is hurt by its Life Orb!
+
+Turn 3
+
+FamSlayer withdrew bella!
+FamSlayer sent out whim!
+Tan's Garlikid used Natural Gift!
+It's super effective!
+whim hung on using its Focus Sash!
+whim took 99% damage!
+
+Turn 4
+
+Tan withdrew Garlikid!
+Tan sent out Cubblfly!
+FamSlayer's whim used Tailwind!
+A tailwind started blowing!
+
+Turn 5
+
+FamSlayer's whim used U-turn!
+It's not very effective...
+Cubblfly took 3% damage!
+FamSlayer withdrew whim!
+FamSlayer sent out bella!
+Cubblfly's Attack fell!
+Tan's Cubblfly used U-turn!
+bella took 10% damage!
+Tan withdrew Cubblfly!
+Tan sent out Actan!
+bella's Attack fell!
+
+Turn 6
+
+Tan's Actan used Protect!
+Actan protected itself!
+FamSlayer's bella used Drain Punch!
+
+Turn 7
+
+Tan withdrew Actan!
+Tan sent out Majungold!
+FamSlayer's bella used Drain Punch!
+It's super effective!
+Majungold took 35% damage!
+Majungold had its energy drained!
+bella absorbed some HP!
+bella is hurt by Majungold's Rocky Helmet!
+bella is hurt by its Life Orb!
+The tailwind petered out!
+
+Turn 8
+
+FamSlayer's bella used Earthquake!
+It's super effective!
+Majungold took 47% damage!
+Majungold fainted!
+bella is hurt by its Life Orb!
+Tan sent out Garlikid!
+
+Turn 9
+
+Tan's Garlikid used Drain Punch!
+It's super effective!
+bella took 38% damage!
+bella had its energy drained!
+Garlikid absorbed some HP!
+bella fainted!
+FamSlayer sent out Queen!
+
+Turn 10
+
+Tan withdrew Garlikid!
+Tan sent out Actan!
+Queen's Attack fell!
+FamSlayer's Queen used Fire Blast!
+It's super effective!
+Actan took 47% damage!
+Actan restored a little HP using its Leftovers!
+
+Turn 11
+
+FamSlayer withdrew Queen!
+FamSlayer sent out whim!
+Tan's Actan used Metal Cruncher!
+It's super effective!
+whim took 0% damage!
+whim fainted!
+Actan restored a little HP using its Leftovers!
+FamSlayer sent out cat!
+
+Turn 12
+
+Tan withdrew Actan!
+Tan sent out Gengar!
+FamSlayer's cat used Knock Off!
+It's super effective!
+Gengar took 100% damage!
+cat knocked off Gengar's Choice Specs!
+Gengar fainted!
+Tan sent out Garlikid!
+
+Turn 13
+
+Tan's Garlikid used Drain Punch!
+It's super effective!
+cat took 55% damage!
+cat had its energy drained!
+Garlikid absorbed some HP!
+FamSlayer's cat used Aerial Ace!
+It's super effective!
+A critical hit!
+Garlikid took 100% damage!
+Garlikid fainted!
+Tan sent out Actan!
+cat's Attack fell!
+
+Turn 14
+
+Tan's Actan used Metal Cruncher!
+cat took 44% damage!
+cat fainted!
+Actan restored a little HP using its Leftovers!
+FamSlayer sent out glicky!
+
+Turn 15
+
+FamSlayer's glicky used U-turn!
+Actan took 13% damage!
+FamSlayer withdrew glicky!
+FamSlayer sent out tide pod!
+Tan's Actan used Knock Off!
+It's not very effective...
+tide pod took 9% damage!
+Actan restored a little HP using its Leftovers!
+
+Turn 16
+
+FamSlayer withdrew tide pod!
+FamSlayer sent out glicky!
+Tan's Actan used Protect!
+But it failed!
+Actan restored a little HP using its Leftovers!
+
+Turn 17
+
+Tan's Actan used Protect!
+Actan protected itself!
+FamSlayer's glicky used Earthquake!
+Actan restored a little HP using its Leftovers!
+
+Turn 18
+
+Tan withdrew Actan!
+Tan sent out Cubblfly!
+FamSlayer's glicky used Earthquake!
+It's not very effective...
+Cubblfly took 10% damage!
+
+Turn 19
+
+FamSlayer's glicky used U-turn!
+It's not very effective...
+Cubblfly took 4% damage!
+FamSlayer withdrew glicky!
+FamSlayer sent out tide pod!
+Tan's Cubblfly used Sticky Web!
+A sticky web has been laid out beneath the opposing team's feet!
+
+Turn 20
+
+FamSlayer withdrew tide pod!
+FamSlayer sent out Queen!
+Queen was caught in a sticky web!
+Queen's Speed fell!
+Tan withdrew Cubblfly!
+Tan sent out Blubelrog!
+
+Turn 21
+
+Tan's Blubelrog used Protect!
+Blubelrog protected itself!
+FamSlayer's Queen used Radioacid!
+
+Turn 22
+
+Tan withdrew Blubelrog!
+Tan sent out Actan!
+Queen's Attack fell!
+FamSlayer's Queen used Radioacid!
+Actan took 18% damage!
+Actan restored a little HP using its Leftovers!
+
+Turn 23
+
+FamSlayer withdrew Queen!
+FamSlayer sent out glicky!
+Tan's Actan used Metal Cruncher!
+glicky took 31% damage!
+glicky's Defense fell!
+Actan restored a little HP using its Leftovers!
+glicky restored a little HP using its Leftovers!
+
+Turn 24
+
+Tan's Actan used Protect!
+Actan protected itself!
+FamSlayer's glicky used Earthquake!
+Actan restored a little HP using its Leftovers!
+glicky restored a little HP using its Leftovers!
+
+Turn 25
+
+FamSlayer's glicky used Earthquake!
+It's super effective!
+Actan took 59% damage!
+Tan's Actan used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+Actan restored a little HP using its Leftovers!
+glicky restored a little HP using its Leftovers!
+
+Turn 26
+
+Tan's Actan used Protect!
+Actan protected itself!
+FamSlayer's glicky used Defog!
+Actan restored a little HP using its Leftovers!
+glicky restored a little HP using its Leftovers!
+
+Turn 27
+
+Tan withdrew Actan!
+Tan sent out Blubelrog!
+FamSlayer's glicky used Earthquake!
+It's super effective!
+Blubelrog took 53% damage!
+glicky restored a little HP using its Leftovers!
+Blubelrog restored a little HP using its Black Sludge!
+
+Turn 28
+
+Tan's Blubelrog used Protect!
+Blubelrog protected itself!
+FamSlayer's glicky used Earthquake!
+glicky restored a little HP using its Leftovers!
+Blubelrog restored a little HP using its Black Sludge!
+
+Turn 29
+
+FamSlayer's glicky used Earthquake!
+It's super effective!
+A critical hit!
+Blubelrog took 58% damage!
+Blubelrog fainted!
+Tan sent out Actan!
+
+Turn 30
+
+FamSlayer's glicky used Earthquake!
+It's super effective!
+Actan took 27% damage!
+Actan fainted!
+Tan sent out Cubblfly!
+
+Turn 31
+
+FamSlayer's glicky used Earthquake!
+It's not very effective...
+Cubblfly took 8% damage!
+Tan's Cubblfly used U-turn!
+It's not very effective...
+glicky took 7% damage!
+glicky restored a little HP using its Leftovers!
+
+Turn 32
+
+FamSlayer's glicky used U-turn!
+It's not very effective...
+Cubblfly took 4% damage!
+FamSlayer withdrew glicky!
+FamSlayer sent out tide pod!
+tide pod was caught in a sticky web!
+tide pod's Speed fell!
+Pointed stones dug into tide pod!
+Tan's Cubblfly used U-turn!
+It's not very effective...
+tide pod took 4% damage!
+
+Turn 33
+
+tide pod Mega Evolved into Mega Syrentide!
+FamSlayer's tide pod used Hyper Voice!
+Cubblfly took 38% damage!
+Tan's Cubblfly used U-turn!
+It's not very effective...
+tide pod took 4% damage!
+
+Turn 34
+
+FamSlayer's tide pod used Hyper Voice!
+A critical hit!
+Cubblfly took 30% damage!
+Cubblfly fainted!
+
+FamSlayer won!

@@ -1,0 +1,194 @@
+Eneko sent out Corsi!
+Poisseman sent out Mehscartress!
+
+Turn 1
+
+Poisseman's Mehscartress used Shell Smash!
+Mehscartress's Attack rose sharply!
+Mehscartress's Special Attack rose sharply!
+Mehscartress's Speed rose sharply!
+Mehscartress's Defense fell!
+Mehscartress's Special Defense fell!
+Mehscartress restored its status using its White Herb!
+Eneko's Corsi used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+
+Turn 2
+
+Poisseman's Mehscartress used Earth Power!
+It's super effective!
+Corsi took 100% damage!
+Corsi fainted!
+Eneko sent out Best NFE!
+
+Turn 3
+
+Poisseman's Mehscartress used Surf!
+It's super effective!
+Best NFE took 100% damage!
+Best NFE fainted!
+Eneko sent out Last Surprise!
+
+Turn 4
+
+Poisseman's Mehscartress used Surf!
+A critical hit!
+Last Surprise hung on using its Focus Sash!
+Last Surprise took 99% damage!
+Eneko's Last Surprise used Endeavor!
+Mehscartress took 99% damage!
+
+Turn 5
+
+Eneko's Last Surprise used Sucker Punch!
+Mehscartress took 0% damage!
+Mehscartress fainted!
+Poisseman sent out Drama Queen!
+Pointed stones dug into Drama Queen!
+Last Surprise's Attack fell!
+
+Turn 6
+
+Last Surprise's Speed fell!
+Drama Queen Mega Evolved into Mega Arbok!
+Poisseman's Drama Queen used Sucker Punch!
+It's not very effective...
+Last Surprise took 0% damage!
+Last Surprise fainted!
+Eneko sent out Gyarauno!
+Drama Queen's Attack fell!
+
+Turn 7
+
+Poisseman withdrew Drama Queen!
+Poisseman sent out Shiny Sanic!
+Pointed stones dug into Shiny Sanic!
+Gyarauno breaks the mold!
+Gyarauno Mega Evolved into Mega Gyarados!
+Eneko's Gyarauno used Dragon Dance!
+Gyarauno's Attack rose!
+Gyarauno's Speed rose!
+
+Turn 8
+
+Eneko's Gyarauno used Earthquake!
+It's super effective!
+Shiny Sanic took 93% damage!
+Shiny Sanic fainted!
+Poisseman sent out The gardener!
+Pointed stones dug into The gardener!
+
+Turn 9
+
+Eneko's Gyarauno used Earthquake!
+The gardener took 36% damage!
+Poisseman's The gardener used Leech Seed!
+Gyarauno was seeded!
+The gardener restored a little HP using its Leftovers!
+Gyarauno's health is sapped by Leech Seed!
+
+Turn 10
+
+Eneko's Gyarauno used Dragon Dance!
+Gyarauno's Attack rose!
+Gyarauno's Speed rose!
+Poisseman's The gardener used Leaf Blade!
+It's super effective!
+Gyarauno took 54% damage!
+The gardener restored a little HP using its Leftovers!
+Gyarauno's health is sapped by Leech Seed!
+
+Turn 11
+
+Eneko's Gyarauno used Earthquake!
+The gardener took 51% damage!
+Poisseman's The gardener used Earthquake!
+Gyarauno took 19% damage!
+The gardener restored a little HP using its Leftovers!
+Gyarauno's health is sapped by Leech Seed!
+Gyarauno fainted!
+Gyarauno was freed from Leech Seed!
+Eneko sent out Wait,Watt!
+
+Turn 12
+
+Eneko's Wait,Watt used Tail Glow!
+Wait,Watt's Special Attack rose drastically!
+Poisseman's The gardener used Earthquake!
+It's super effective!
+Wait,Watt took 79% damage!
+The gardener restored a little HP using its Leftovers!
+Wait,Watt's Speed rose!
+
+Turn 13
+
+Eneko's Wait,Watt used Protect!
+Wait,Watt protected itself!
+Poisseman's The gardener used Earthquake!
+The gardener restored a little HP using its Leftovers!
+Wait,Watt's Speed rose!
+
+Turn 14
+
+Eneko's Wait,Watt used Baton Pass!
+Eneko withdrew Wait,Watt!
+Eneko sent out Notice Me Tan!
+Poisseman's The gardener used Earthquake!
+It's super effective!
+Notice Me Tan took 57% damage!
+Notice Me Tan restored a little HP using its Leftovers!
+The gardener restored a little HP using its Leftovers!
+
+Turn 15
+
+Eneko's Notice Me Tan used Flamethrower!
+It's super effective!
+The gardener took 65% damage!
+The gardener fainted!
+Notice Me Tan restored a little HP using its Leftovers!
+Poisseman sent out Kampaï!
+Pointed stones dug into Kampaï!
+
+Turn 16
+
+Eneko's Notice Me Tan used Shadow Ball!
+Kampaï took 67% damage!
+Kampaï's Special Defense fell!
+Poisseman's Kampaï used Head Smash!
+Notice Me Tan avoided the attack!
+Notice Me Tan restored a little HP using its Leftovers!
+
+Turn 17
+
+Eneko's Notice Me Tan used Shadow Ball!
+Kampaï took 20% damage!
+Kampaï fainted!
+Notice Me Tan restored a little HP using its Leftovers!
+Poisseman sent out Drama Queen!
+Pointed stones dug into Drama Queen!
+Notice Me Tan's Speed fell!
+
+Turn 18
+
+Poisseman's Drama Queen used Sucker Punch!
+It's super effective!
+Notice Me Tan took 67% damage!
+Notice Me Tan fainted!
+Eneko sent out Wait,Watt!
+
+Turn 19
+
+Eneko's Wait,Watt used Protect!
+Wait,Watt protected itself!
+Poisseman's Drama Queen used Pursuit!
+Wait,Watt's Speed rose!
+
+Turn 20
+
+Eneko's Wait,Watt used Electro Ball!
+Drama Queen took 31% damage!
+Poisseman's Drama Queen used Pursuit!
+Wait,Watt took 20% damage!
+Wait,Watt fainted!
+
+Poisseman won!

@@ -1,0 +1,284 @@
+Tan sent out Uglybug!
+Spoder sent out bigge snek!
+
+Turn 1
+
+Spoder's bigge snek used Air Slash!
+It's super effective!
+Uglybug took 30% damage!
+Uglybug flinched!
+
+Turn 2
+
+Spoder's bigge snek used Air Slash!
+It's super effective!
+Uglybug took 30% damage!
+Uglybug flinched!
+
+Turn 3
+
+Spoder's bigge snek used Air Slash!
+It's super effective!
+Uglybug took 31% damage!
+Uglybug flinched!
+
+Turn 4
+
+Tan withdrew Uglybug!
+Tan sent out Calypso!
+Spoder's bigge snek used Air Slash!
+Calypso took 19% damage!
+
+Turn 5
+
+Tan's Calypso used Toxic!
+bigge snek was badly poisoned!
+Spoder's bigge snek used Glare!
+Calypso was paralyzed!
+bigge snek was hurt by poison!
+
+Turn 6
+
+Spoder's bigge snek used Air Slash!
+Calypso took 20% damage!
+Calypso flinched!
+bigge snek restored a little HP using its Leftovers!
+bigge snek was hurt by poison!
+
+Turn 7
+
+Spoder's bigge snek used Air Slash!
+Calypso took 19% damage!
+Tan's Calypso used Rest!
+Calypso fell asleep!
+bigge snek restored a little HP using its Leftovers!
+bigge snek was hurt by poison!
+
+Turn 8
+
+Tan withdrew Calypso!
+Tan sent out Hades!
+bigge snek's Attack fell!
+Spoder withdrew bigge snek!
+Spoder sent out quickity quick!
+quickity quick was burned!
+
+Turn 9
+
+Spoder's quickity quick used Thunderbolt!
+Hades took 36% damage!
+Tan's Hades used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+Hades restored a little HP using its Leftovers!
+quickity quick was hurt by its burn!
+
+Turn 10
+
+Spoder's quickity quick used Thunderbolt!
+Hades took 39% damage!
+Hades was paralyzed!
+Tan's Hades used Knock Off!
+quickity quick took 87% damage!
+Hades knocked off quickity quick's Flame Orb!
+quickity quick fainted!
+Hades restored a little HP using its Leftovers!
+Spoder sent out berry ullen!
+Pointed stones dug into berry ullen!
+
+Turn 11
+
+Tan withdrew Hades!
+Tan sent out Uglybug!
+berry ullen Mega Evolved into Mega Inflagetah!
+Spoder's berry ullen used Flame Impact!
+It's super effective!
+Uglybug took 7% damage!
+Uglybug fainted!
+Tan sent out Aureus!
+Aureus floats in the air with its Air Balloon!
+
+Turn 12
+
+Spoder withdrew berry ullen!
+Spoder sent out chop chop!
+Pointed stones dug into chop chop!
+Tan's Aureus used Stone Edge!
+chop chop avoided the attack!
+chop chop restored a little HP using its Leftovers!
+
+Turn 13
+
+Tan withdrew Aureus!
+Tan sent out Hades!
+chop chop's Attack fell!
+Spoder's chop chop used Leaf Blade!
+It's not very effective...
+Hades took 9% damage!
+Hades restored a little HP using its Leftovers!
+chop chop restored a little HP using its Leftovers!
+
+Turn 14
+
+Spoder withdrew chop chop!
+Spoder sent out manny!
+Pointed stones dug into manny!
+Tan's Hades used Knock Off!
+manny took 27% damage!
+Hades knocked off manny's Leftovers!
+Hades restored a little HP using its Leftovers!
+
+Turn 15
+
+Tan withdrew Hades!
+Tan sent out Clefable!
+Spoder's manny used Rapid Spin!
+But it doesn't affect Clefable...
+
+Turn 16
+
+Spoder withdrew manny!
+Spoder sent out bigge snek!
+Pointed stones dug into bigge snek!
+Tan's Clefable used Shadow Ball!
+bigge snek took 31% damage!
+Clefable is hurt by its Life Orb!
+bigge snek restored a little HP using its Leftovers!
+bigge snek was hurt by poison!
+
+Turn 17
+
+Tan's Clefable used Shadow Ball!
+bigge snek took 18% damage!
+bigge snek fainted!
+Clefable is hurt by its Life Orb!
+Spoder sent out berry ullen!
+Pointed stones dug into berry ullen!
+
+Turn 18
+
+Tan withdrew Clefable!
+Tan sent out Calypso!
+Spoder's berry ullen used Flame Impact!
+It's not very effective...
+Calypso took 12% damage!
+berry ullen is hurt by Calypso's Rocky Helmet!
+
+Turn 19
+
+Spoder withdrew berry ullen!
+Spoder sent out chop chop!
+Pointed stones dug into chop chop!
+Tan withdrew Calypso!
+Tan sent out Hades!
+chop chop's Attack fell!
+Hades restored a little HP using its Leftovers!
+chop chop restored a little HP using its Leftovers!
+
+Turn 20
+
+Spoder's chop chop used X-Scissor!
+Hades took 10% damage!
+Tan's Hades used Metal Cruncher!
+chop chop took 61% damage!
+chop chop's Defense fell!
+Hades restored a little HP using its Leftovers!
+chop chop restored a little HP using its Leftovers!
+
+Turn 21
+
+Spoder withdrew chop chop!
+Spoder sent out manny!
+Pointed stones dug into manny!
+Tan's Hades used Metal Cruncher!
+It's super effective!
+manny took 22% damage!
+manny fainted!
+Hades restored a little HP using its Leftovers!
+Spoder sent out berry ullen!
+Pointed stones dug into berry ullen!
+
+Turn 22
+
+Tan withdrew Hades!
+Tan sent out Calypso!
+Spoder's berry ullen used Swords Dance!
+berry ullen's Attack rose sharply!
+
+Turn 23
+
+Spoder's berry ullen used ExtremeSpeed!
+Calypso took 43% damage!
+berry ullen is hurt by Calypso's Rocky Helmet!
+berry ullen fainted!
+Calypso is fast asleep.
+Spoder sent out chop chop!
+Pointed stones dug into chop chop!
+
+Turn 24
+
+Tan withdrew Calypso!
+Tan sent out Hades!
+chop chop's Attack fell!
+Spoder's chop chop used Synthesis!
+chop chop's HP was restored.
+Hades restored a little HP using its Leftovers!
+chop chop restored a little HP using its Leftovers!
+
+Turn 25
+
+Spoder's chop chop used X-Scissor!
+Hades took 10% damage!
+Tan's Hades used Metal Cruncher!
+chop chop avoided the attack!
+Hades restored a little HP using its Leftovers!
+chop chop restored a little HP using its Leftovers!
+
+Turn 26
+
+Spoder's chop chop used X-Scissor!
+Hades took 9% damage!
+Tan's Hades used Metal Cruncher!
+A critical hit!
+chop chop took 77% damage!
+chop chop's Defense fell!
+Hades restored a little HP using its Leftovers!
+chop chop restored a little HP using its Leftovers!
+
+Turn 27
+
+Tan's Hades used Sudden Strike!
+chop chop took 15% damage!
+chop chop fainted!
+Hades restored a little HP using its Leftovers!
+Spoder sent out demon bug!
+Pointed stones dug into demon bug!
+
+Turn 28
+
+Spoder's demon bug used Drill Run!
+It's super effective!
+A critical hit!
+Hades took 50% damage!
+Hades is fully paralyzed!
+Hades restored a little HP using its Leftovers!
+
+Turn 29
+
+Tan's Hades used Sudden Strike!
+demon bug took 31% damage!
+Spoder's demon bug used Drill Run!
+It's super effective!
+Hades took 6% damage!
+Hades fainted!
+Tan sent out Ragnarok!
+
+Turn 30
+
+The sunlight turned harsh!
+Ragnarok Mega Evolved into Mega Archilles!
+Tan's Ragnarok used Flame Impact!
+It's super effective!
+demon bug took 18% damage!
+demon bug fainted!
+
+Tan won!

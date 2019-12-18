@@ -1,0 +1,374 @@
+[21:53:03] Dragonstrike joined!
+[21:53:13] FamSlayer: spikes
+FamSlayer sent out Laissure!
+Dragonstrike sent out Laissure!
+Laissure's Attack fell!
+
+Turn 1
+
+FamSlayer's Laissure used Spikes!
+Spikes were scattered all around the opposing team's feet!
+Dragonstrike's Laissure used Spikes!
+Spikes were scattered all around your team's feet!
+
+Turn 2
+
+FamSlayer's Laissure used Spikes!
+Dragonstrike's Laissure used Spikes!
+
+Turn 3
+
+FamSlayer's Laissure used Spikes!
+Dragonstrike's Laissure used Spikes!
+
+Turn 4
+
+Dragonstrike withdrew Laissure!
+Dragonstrike sent out Electruxo!
+Electruxo is hurt by the spikes!
+FamSlayer withdrew Laissure!
+FamSlayer sent out Luxelong!
+Luxelong is hurt by the spikes!
+
+Turn 5
+
+Dragonstrike withdrew Electruxo!
+Dragonstrike sent out Laissure!
+Laissure is hurt by the spikes!
+FamSlayer withdrew Luxelong!
+FamSlayer sent out Laissure!
+Laissure is hurt by the spikes!
+Laissure's Attack fell!
+
+Turn 6
+
+Dragonstrike withdrew Laissure!
+Dragonstrike sent out Electruxo!
+Electruxo is hurt by the spikes!
+FamSlayer withdrew Laissure!
+FamSlayer sent out Luxelong!
+Luxelong is hurt by the spikes!
+
+Turn 7
+
+Dragonstrike withdrew Electruxo!
+Dragonstrike sent out Laissure!
+Laissure is hurt by the spikes!
+FamSlayer withdrew Luxelong!
+FamSlayer sent out Laissure!
+Laissure is hurt by the spikes!
+Laissure's Attack fell!
+
+Turn 8
+
+Dragonstrike withdrew Laissure!
+Dragonstrike sent out Electruxo!
+Electruxo is hurt by the spikes!
+FamSlayer withdrew Laissure!
+FamSlayer sent out Luxelong!
+Luxelong is hurt by the spikes!
+
+Turn 9
+
+Dragonstrike withdrew Electruxo!
+Dragonstrike sent out Laissure!
+Laissure is hurt by the spikes!
+FamSlayer withdrew Luxelong!
+FamSlayer sent out Laissure!
+Laissure is hurt by the spikes!
+Laissure's Attack fell!
+
+Turn 10
+
+FamSlayer withdrew Laissure!
+FamSlayer sent out Luxelong!
+Luxelong is hurt by the spikes!
+Dragonstrike withdrew Laissure!
+Dragonstrike sent out Electruxo!
+Electruxo is hurt by the spikes!
+
+Turn 11
+
+Dragonstrike withdrew Electruxo!
+Dragonstrike sent out Laissure!
+Laissure is hurt by the spikes!
+FamSlayer withdrew Luxelong!
+FamSlayer sent out Laissure!
+Laissure is hurt by the spikes!
+Laissure's Attack fell!
+
+Turn 12
+
+FamSlayer withdrew Laissure!
+FamSlayer sent out Luxelong!
+Luxelong is hurt by the spikes!
+Luxelong fainted!
+Dragonstrike withdrew Laissure!
+Dragonstrike sent out Electruxo!
+Electruxo is hurt by the spikes!
+Electruxo fainted!
+[21:55:03] FamSlayer: ok can you do whirlpool?
+[21:55:06] Dragonstrike: yup
+Dragonstrike sent out Syrentide!
+FamSlayer sent out Luchabra!
+Syrentide is hurt by the spikes!
+Luchabra is hurt by the spikes!
+
+Turn 13
+
+Dragonstrike's Syrentide used Whirlpool!
+A critical hit!
+Luchabra took 16% damage!
+FamSlayer's Luchabra used Bulk Up!
+Luchabra's Attack rose!
+Luchabra's Defense rose!
+Luchabra is hurt by Whirlpool!
+
+Turn 14
+
+Dragonstrike's Syrentide used Toxic!
+But it failed!
+FamSlayer's Luchabra used Bulk Up!
+Luchabra's Attack rose!
+Luchabra's Defense rose!
+Luchabra is hurt by Whirlpool!
+
+Turn 15
+
+Dragonstrike's Syrentide used Whirlpool!
+Luchabra took 12% damage!
+FamSlayer's Luchabra used Bulk Up!
+Luchabra's Attack rose!
+Luchabra's Defense rose!
+Luchabra is hurt by Whirlpool!
+
+Turn 16
+
+[21:55:51] FamSlayer: no attack
+Dragonstrike's Syrentide used Protect!
+Syrentide protected itself!
+FamSlayer's Luchabra used Bulk Up!
+Luchabra's Attack rose!
+Luchabra's Defense rose!
+Luchabra is hurt by Whirlpool!
+Luchabra fainted!
+Luchabra was freed from Whirlpool!
+Luchabra was freed from Whirlpool!
+[21:56:00] Dragonstrike: got it
+[21:56:01] FamSlayer: sick o mode
+[21:56:04] FamSlayer: ok
+[21:56:08] FamSlayer: now swagger kills
+FamSlayer sent out Sableye!
+Sableye is hurt by the spikes!
+
+Turn 17
+
+Dragonstrike withdrew Syrentide!
+Dragonstrike sent out Luchabra!
+Luchabra is hurt by the spikes!
+FamSlayer's Sableye used Swagger!
+Luchabra became confused!
+Luchabra became confused!
+Luchabra's Attack rose sharply!
+Luchabra was burned!
+
+Turn 18
+
+Luchabra is confused!
+Luchabra hurt itself in confusion!
+FamSlayer's Sableye used Swagger!
+But it failed!
+Luchabra's Attack rose sharply!
+Luchabra was hurt by its burn!
+
+Turn 19
+
+Luchabra is confused!
+Dragonstrike's Luchabra used Protect!
+Luchabra protected itself!
+FamSlayer's Sableye used Swagger!
+Luchabra was hurt by its burn!
+
+Turn 20
+
+Luchabra is confused!
+Dragonstrike's Luchabra used Protect!
+But it failed!
+FamSlayer's Sableye used Swagger!
+But it failed!
+Luchabra's Attack rose sharply!
+Luchabra was hurt by its burn!
+
+Turn 21
+
+Luchabra is confused!
+Luchabra snapped out of confusion!
+Dragonstrike's Luchabra used Protect!
+Luchabra protected itself!
+FamSlayer's Sableye used Swagger!
+Luchabra was hurt by its burn!
+
+Turn 22
+
+Dragonstrike's Luchabra used Toxic!
+Sableye was badly poisoned!
+FamSlayer's Sableye used Swagger!
+Luchabra became confused!
+Luchabra became confused!
+Luchabra was hurt by its burn!
+Sableye was hurt by poison!
+
+Turn 23
+
+Luchabra is confused!
+Luchabra hurt itself in confusion!
+Luchabra fainted!
+FamSlayer's Sableye used Swagger!
+But it failed!
+Sableye was hurt by poison!
+[21:56:55] FamSlayer: helluh
+[21:56:56] Dragonstrike: there we go
+[21:57:12] FamSlayer: technically hurricane can confuse too
+[21:57:21] FamSlayer: as can confuse ray
+[21:57:27] FamSlayer: but i think i can work around that
+[21:57:35] Dragonstrike: next up: perish song
+Dragonstrike sent out Syrentide!
+Syrentide is hurt by the spikes!
+
+Turn 24
+
+[21:57:49] Dragonstrike: you might want to switch out
+FamSlayer withdrew Sableye!
+FamSlayer sent out Antarki!
+Antarki is hurt by the spikes!
+Dragonstrike's Syrentide used Perish Song!
+All Pokemon hearing the song will faint in three turns!
+All Pokemon hearing the song will faint in three turns!
+Antarki's perish count fell to 3!
+Syrentide's perish count fell to 3!
+Antarki was badly poisoned!
+
+Turn 25
+
+Dragonstrike's Syrentide used Protect!
+Syrentide protected itself!
+FamSlayer's Antarki used Recover!
+Antarki's HP was restored.
+Antarki was hurt by poison!
+Antarki's perish count fell to 2!
+Syrentide's perish count fell to 2!
+
+Turn 26
+
+Dragonstrike's Syrentide used Protect!
+But it failed!
+FamSlayer's Antarki used Recover!
+Antarki's HP was restored.
+Antarki was hurt by poison!
+Antarki's perish count fell to 1!
+Syrentide's perish count fell to 1!
+
+Turn 27
+
+[21:58:24] FamSlayer: idk why it said luchabra got confused twice
+Dragonstrike's Syrentide used Protect!
+Syrentide protected itself!
+FamSlayer's Antarki used Recover!
+Antarki's HP was restored.
+Antarki was hurt by poison!
+Antarki's perish count fell to 0!
+Antarki fainted!
+Syrentide's perish count fell to 0!
+Syrentide fainted!
+[21:58:56] FamSlayer: ok now i'm gonna go for explosion
+[21:59:11] Dragonstrike: that's definitely a direct kill
+[21:59:12] FamSlayer: ugh i guess i also need memento
+FamSlayer sent out Dermafrost!
+Dragonstrike sent out Firoke!
+Dermafrost is hurt by the spikes!
+Firoke is hurt by the spikes!
+
+Turn 28
+
+[21:59:24] FamSlayer: well yeah but the pokemon needs to register that it killed itself
+FamSlayer's Dermafrost used Bulk Up!
+Dermafrost's Attack rose!
+Dermafrost's Defense rose!
+Dragonstrike's Firoke used Fire Spin!
+Dermafrost took 15% damage!
+Dermafrost is hurt by Fire Spin!
+Dermafrost was burned!
+
+Turn 29
+
+Dragonstrike's Firoke used Protect!
+Firoke protected itself!
+FamSlayer's Dermafrost used Fling!
+Dermafrost was hurt by its burn!
+Dermafrost is hurt by Fire Spin!
+
+Turn 30
+
+FamSlayer's Dermafrost used Fling!
+But it failed!
+Dragonstrike's Firoke used Toxic!
+But it failed!
+Dermafrost was hurt by its burn!
+Dermafrost is hurt by Fire Spin!
+Dermafrost fainted!
+Dermafrost was freed from Fire Spin!
+Dermafrost was freed from Fire Spin!
+[21:59:57] FamSlayer: ehhh
+[22:00:00] FamSlayer: i guess explosion can wait
+FamSlayer sent out Laissure!
+Laissure is hurt by the spikes!
+Laissure fainted!
+FamSlayer sent out Sableye!
+Sableye is hurt by the spikes!
+
+Turn 31
+
+Dragonstrike's Firoke used Toxic!
+But it failed!
+FamSlayer's Sableye used Recover!
+Sableye's HP was restored.
+Sableye was hurt by poison!
+
+Turn 32
+
+Dragonstrike's Firoke used Toxic!
+But it failed!
+FamSlayer's Sableye used Counter!
+But it failed!
+Sableye was hurt by poison!
+
+Turn 33
+
+Dragonstrike's Firoke used Protect!
+Firoke protected itself!
+FamSlayer's Sableye used Counter!
+But it failed!
+Sableye was hurt by poison!
+
+Turn 34
+
+[22:00:45] eriedaberrie joined!
+Dragonstrike's Firoke used Toxic!
+But it failed!
+FamSlayer's Sableye used Counter!
+But it failed!
+Sableye was hurt by poison!
+
+Turn 35
+
+[22:00:49] eriedaberrie: ooh hi
+Dragonstrike's Firoke used Protect!
+Firoke protected itself!
+FamSlayer's Sableye used Counter!
+But it failed!
+Sableye was hurt by poison!
+Sableye fainted!
+
+Dragonstrike won!
+
+[22:00:54] FamSlayer: hello

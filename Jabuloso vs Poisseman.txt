@@ -1,0 +1,336 @@
+[15:46:38] Spoder joined!
+[15:46:40] Jabuloso: gl hf
+[15:46:49] Wes joined!
+[15:47:07] Poisseman: gl hf
+Jabuloso sent out Aku Aku!
+[15:47:42] Wes left!
+Poisseman sent out Your mom!
+[15:47:44] Wes joined!
+
+Turn 1
+
+Jabuloso withdrew Aku Aku!
+Jabuloso sent out Ryujin!
+Your mom's Attack fell!
+Poisseman's Your mom used Flame Impact!
+It's not very effective...
+Ryujin took 6% damage!
+Ryujin restored a little HP using its Leftovers!
+
+Turn 2
+
+Poisseman's Your mom used Will-O-Wisp!
+Ryujin was burned!
+Jabuloso's Ryujin used Waterfall!
+It's super effective!
+Your mom took 96% damage!
+Ryujin restored a little HP using its Leftovers!
+Ryujin was hurt by its burn!
+
+Turn 3
+
+Poisseman's Your mom used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+Jabuloso's Ryujin used Aqua Tail!
+It's super effective!
+Your mom took 3% damage!
+Your mom fainted!
+Ryujin restored a little HP using its Leftovers!
+Ryujin was hurt by its burn!
+Poisseman sent out Drama Queen!
+Ryujin's Attack fell!
+
+Turn 4
+
+Ryujin's Speed fell!
+Drama Queen Mega Evolved into Mega Arbok!
+Poisseman's Drama Queen used Coil!
+Drama Queen's Attack rose!
+Drama Queen's Defense rose!
+Drama Queen's Accuracy rose!
+Jabuloso's Ryujin used Roar!
+Poisseman withdrew Drama Queen!
+Poisseman sent out Tiko for dinner!
+Ryujin restored a little HP using its Leftovers!
+Ryujin was hurt by its burn!
+
+Turn 5
+
+Jabuloso withdrew Ryujin!
+Jabuloso sent out Artemis!
+Pointed stones dug into Artemis!
+Poisseman's Tiko for dinner used Quiver Dance!
+Tiko for dinner's Special Attack rose!
+Tiko for dinner's Special Defense rose!
+Tiko for dinner's Speed rose!
+Artemis restored a little HP using its Leftovers!
+
+Turn 6
+
+Poisseman's Tiko for dinner used Heat Wave!
+It's super effective!
+Artemis took 54% damage!
+Jabuloso's Artemis used Toxic!
+Tiko for dinner was badly poisoned!
+Artemis restored a little HP using its Leftovers!
+Tiko for dinner was hurt by poison!
+
+Turn 7
+
+Jabuloso withdrew Artemis!
+Jabuloso sent out Ryujin!
+Pointed stones dug into Ryujin!
+Tiko for dinner's Attack fell!
+Poisseman's Tiko for dinner used Heat Wave!
+It's not very effective...
+Ryujin took 14% damage!
+Ryujin restored a little HP using its Leftovers!
+Ryujin was hurt by its burn!
+Tiko for dinner was hurt by poison!
+
+Turn 8
+
+Poisseman's Tiko for dinner used Sludge Bomb!
+Ryujin took 28% damage!
+Ryujin fainted!
+Tiko for dinner was hurt by poison!
+Jabuloso sent out Aku Aku!
+Pointed stones dug into Aku Aku!
+
+Turn 9
+
+Poisseman's Tiko for dinner used Sludge Bomb!
+It's super effective!
+Aku Aku took 40% damage!
+Jabuloso's Aku Aku used Fire Punch!
+It's super effective!
+Tiko for dinner took 35% damage!
+Aku Aku is hurt by Tiko for dinner's Rocky Helmet!
+Tiko for dinner was hurt by poison!
+
+Turn 10
+
+Jabuloso's Aku Aku used Flame Impact!
+It's super effective!
+Tiko for dinner took 2% damage!
+Aku Aku is hurt by Tiko for dinner's Rocky Helmet!
+Tiko for dinner fainted!
+Poisseman sent out ¯\_(ツ)_/¯!
+
+Turn 11
+
+Jabuloso's Aku Aku used Flame Impact!
+It's super effective!
+¯\_(ツ)_/¯ took 36% damage!
+Poisseman's ¯\_(ツ)_/¯ used Flash Cannon!
+It's not very effective...
+A critical hit!
+Aku Aku took 1% damage!
+Aku Aku fainted!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+Jabuloso sent out Artemis!
+Pointed stones dug into Artemis!
+
+Turn 12
+
+Poisseman's ¯\_(ツ)_/¯ used Thunder Wave!
+Artemis was paralyzed!
+Jabuloso's Artemis used Rapid Spin!
+It's not very effective...
+¯\_(ツ)_/¯ took 1% damage!
+The pointed stones disappeared from around the opposing team!
+Artemis restored a little HP using its Leftovers!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+
+Turn 13
+
+Poisseman's ¯\_(ツ)_/¯ used Flash Cannon!
+It's not very effective...
+Artemis took 12% damage!
+Jabuloso's Artemis used Head Smash!
+It's not very effective...
+¯\_(ツ)_/¯ took 10% damage!
+Artemis restored a little HP using its Leftovers!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+
+Turn 14
+
+Poisseman's ¯\_(ツ)_/¯ used Flash Cannon!
+It's not very effective...
+Artemis took 12% damage!
+Artemis's Special Defense fell!
+Jabuloso's Artemis used Head Smash!
+¯\_(ツ)_/¯ avoided the attack!
+Artemis restored a little HP using its Leftovers!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+
+Turn 15
+
+Poisseman's ¯\_(ツ)_/¯ used Flash Cannon!
+It's not very effective...
+Artemis took 17% damage!
+Jabuloso's Artemis used Head Smash!
+¯\_(ツ)_/¯ avoided the attack!
+Artemis restored a little HP using its Leftovers!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+
+Turn 16
+
+Poisseman's ¯\_(ツ)_/¯ used Flash Cannon!
+It's not very effective...
+Artemis took 17% damage!
+Jabuloso's Artemis used Stealth Rock!
+Pointed stones float in the air around your team!
+Artemis restored a little HP using its Leftovers!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+
+Turn 17
+
+Jabuloso withdrew Artemis!
+Jabuloso sent out Oryx!
+Poisseman's ¯\_(ツ)_/¯ used Rapid Spin!
+Oryx took 3% damage!
+The pointed stones disappeared from around your team!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+
+Turn 18
+
+Oryx Mega Evolved into Mega Baariette!
+Jabuloso's Oryx used Knock Off!
+It's super effective!
+¯\_(ツ)_/¯ took 76% damage!
+Oryx's Blood Lust restored its HP a little!
+Oryx knocked off ¯\_(ツ)_/¯'s Leftovers!
+Poisseman's ¯\_(ツ)_/¯ used Thunder Wave!
+Oryx was paralyzed!
+
+Turn 19
+
+Poisseman's ¯\_(ツ)_/¯ used Flash Cannon!
+Oryx took 32% damage!
+Jabuloso's Oryx used Knock Off!
+It's super effective!
+¯\_(ツ)_/¯ took 16% damage!
+Oryx's Blood Lust restored its HP a little!
+¯\_(ツ)_/¯ fainted!
+Poisseman sent out Cute leader :3!
+
+Turn 20
+
+Jabuloso withdrew Oryx!
+Jabuloso sent out Artemis!
+Poisseman's Cute leader :3 used Play Rough!
+It's not very effective...
+Artemis took 16% damage!
+Artemis fainted!
+Jabuloso sent out Cerynitis!
+
+Turn 21
+
+Poisseman withdrew Cute leader :3!
+Poisseman sent out Old Goonondorf!
+Old Goonondorf floats in the air with its Air Balloon!
+Jabuloso's Cerynitis used Flare Blitz!
+Old Goonondorf took 70% damage!
+Cerynitis's Speed fell!
+Old Goonondorf's Air Balloon popped!
+Cerynitis was hit by recoil!
+
+Turn 22
+
+Jabuloso withdrew Cerynitis!
+Jabuloso sent out Mike Glison!
+Poisseman's Old Goonondorf used Volt Switch!
+But it doesn't affect Mike Glison...
+
+Turn 23
+
+Poisseman withdrew Old Goonondorf!
+Poisseman sent out Cute leader :3!
+Jabuloso's Mike Glison used Earthquake!
+It's not very effective...
+Cute leader :3 took 19% damage!
+
+Turn 24
+
+Poisseman's Cute leader :3 used Knock Off!
+Mike Glison took 21% damage!
+Cute leader :3 knocked off Mike Glison's Eviolite!
+Jabuloso's Mike Glison used U-turn!
+It's not very effective...
+Cute leader :3 took 8% damage!
+Jabuloso withdrew Mike Glison!
+Jabuloso sent out Cerynitis!
+
+Turn 25
+
+Poisseman withdrew Cute leader :3!
+Poisseman sent out Old Goonondorf!
+[15:57:29] Wes left!
+Jabuloso's Cerynitis used Flame Impact!
+Old Goonondorf took 29% damage!
+Cerynitis's Speed fell!
+Old Goonondorf fainted!
+Poisseman sent out Drama Queen!
+Cerynitis's Speed fell!
+
+Turn 26
+
+Jabuloso withdrew Cerynitis!
+Jabuloso sent out Mike Glison!
+Poisseman's Drama Queen used Earthquake!
+But it doesn't affect Mike Glison...
+
+Turn 27
+
+Poisseman withdrew Drama Queen!
+Poisseman sent out Cute leader :3!
+Jabuloso's Mike Glison used Earthquake!
+It's not very effective...
+Cute leader :3 took 19% damage!
+
+Turn 28
+
+[15:59:18] Wes joined!
+[15:59:40] Wes left!
+Poisseman's Cute leader :3 used Knock Off!
+Mike Glison took 22% damage!
+Jabuloso's Mike Glison used U-turn!
+It's not very effective...
+Cute leader :3 took 9% damage!
+[16:00:22] Wes joined!
+[16:00:32] Wes left!
+[16:00:34] Wes joined!
+Jabuloso withdrew Mike Glison!
+Jabuloso sent out Cerynitis!
+
+Turn 29
+
+[16:00:39] Wes left!
+[16:00:41] Wes joined!
+Poisseman withdrew Cute leader :3!
+Poisseman sent out Drama Queen!
+Cerynitis's Speed fell!
+Jabuloso's Cerynitis used Flame Impact!
+Drama Queen took 54% damage!
+
+Turn 30
+
+Jabuloso's Cerynitis used Flame Impact!
+Drama Queen took 45% damage!
+Drama Queen fainted!
+[16:00:55] Poisseman: gg
+Poisseman sent out Cute leader :3!
+[16:00:57] Jabuloso: gg
+
+Turn 31
+
+Jabuloso's Cerynitis used Flame Impact!
+It's super effective!
+Cute leader :3 took 41% damage!
+Cute leader :3 fainted!
+
+Jabuloso won!
+
+[16:01:06] Tan: gg
+[16:01:06] Wes left!

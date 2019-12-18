@@ -1,0 +1,438 @@
+FamSlayer sent out Corsoreef!
+Jabuloso sent out Alpico!
+
+Turn 1
+
+Jabuloso's Alpico used U-turn!
+Corsoreef took 8% damage!
+Jabuloso withdrew Alpico!
+Jabuloso sent out Aku-Aku!
+FamSlayer's Corsoreef used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+Corsoreef restored a little HP using its Leftovers!
+
+Turn 2
+
+FamSlayer withdrew Corsoreef!
+FamSlayer sent out Whimsicott!
+Jabuloso's Aku-Aku used Power Whip!
+It's not very effective...
+Whimsicott took 46% damage!
+
+Turn 3
+
+Jabuloso's Aku-Aku used Flame Impact!
+It's super effective!
+Whimsicott took 53% damage!
+Whimsicott fainted!
+FamSlayer sent out Xenoqueen!
+
+Turn 4
+
+Jabuloso withdrew Aku-Aku!
+Jabuloso sent out Artemis!
+Pointed stones dug into Artemis!
+FamSlayer's Xenoqueen used Proton Beam!
+It's not very effective...
+Artemis took 17% damage!
+Xenoqueen's Special Attack harshly fell!
+Artemis restored a little HP using its Leftovers!
+
+Turn 5
+
+FamSlayer withdrew Xenoqueen!
+FamSlayer sent out Corsoreef!
+Jabuloso's Artemis used Stealth Rock!
+Pointed stones float in the air around your team!
+Artemis restored a little HP using its Leftovers!
+
+Turn 6
+
+Jabuloso's Artemis used Toxic!
+Corsoreef was badly poisoned!
+FamSlayer's Corsoreef used Stealth Rock!
+But it failed!
+Artemis restored a little HP using its Leftovers!
+Corsoreef was hurt by poison!
+
+Turn 7
+
+FamSlayer withdrew Corsoreef!
+FamSlayer sent out Gliscor!
+Pointed stones dug into Gliscor!
+Jabuloso's Artemis used Rapid Spin!
+Gliscor took 3% damage!
+The pointed stones disappeared from around the opposing team!
+Gliscor restored a little HP using its Leftovers!
+Artemis restored a little HP using its Leftovers!
+
+Turn 8
+
+Jabuloso withdrew Artemis!
+Jabuloso sent out Navighast!
+FamSlayer's Gliscor used U-turn!
+It's not very effective...
+Navighast took 5% damage!
+FamSlayer withdrew Gliscor!
+FamSlayer sent out Syrentide!
+Pointed stones dug into Syrentide!
+
+Turn 9
+
+Jabuloso withdrew Navighast!
+Jabuloso sent out Aku-Aku!
+Syrentide Mega Evolved into Mega Syrentide!
+FamSlayer's Syrentide used Hyper Voice!
+It's not very effective...
+Aku-Aku took 17% damage!
+
+Turn 10
+
+FamSlayer withdrew Syrentide!
+FamSlayer sent out Gliscor!
+Pointed stones dug into Gliscor!
+Jabuloso's Aku-Aku used Power Whip!
+Gliscor took 40% damage!
+Gliscor restored a little HP using its Leftovers!
+
+Turn 11
+
+Jabuloso withdrew Aku-Aku!
+Jabuloso sent out Gyarados!
+FamSlayer's Gliscor used Roost!
+Gliscor's HP was restored.
+Gliscor restored a little HP using its Leftovers!
+
+Turn 12
+
+FamSlayer withdrew Gliscor!
+FamSlayer sent out Baariette!
+Pointed stones dug into Baariette!
+Gyarados's Attack fell!
+Jabuloso's Gyarados used Waterfall!
+Baariette took 28% damage!
+
+Turn 13
+
+FamSlayer's Baariette used ThunderPunch!
+The Wacan Berry weakened the damage to Gyarados!
+It's super effective!
+Gyarados took 43% damage!
+Jabuloso's Gyarados used Toxic!
+Baariette was badly poisoned!
+Baariette was hurt by poison!
+
+Turn 14
+
+FamSlayer withdrew Baariette!
+FamSlayer sent out Gliscor!
+Pointed stones dug into Gliscor!
+Jabuloso withdrew Gyarados!
+Jabuloso sent out Artemis!
+Gliscor restored a little HP using its Leftovers!
+
+Turn 15
+
+Jabuloso withdrew Artemis!
+Jabuloso sent out Navighast!
+FamSlayer's Gliscor used Defog!
+Navighast's Evasion fell!
+The pointed stones disappeared from around your team!
+Gliscor restored a little HP using its Leftovers!
+
+Turn 16
+
+Jabuloso's Navighast used Swords Dance!
+Navighast's Attack rose sharply!
+FamSlayer's Gliscor used U-turn!
+It's not very effective...
+Navighast took 5% damage!
+FamSlayer withdrew Gliscor!
+FamSlayer sent out Xenoqueen!
+
+Turn 17
+
+[16:26:44] FamSlayer: ok that's better
+Jabuloso withdrew Navighast!
+Jabuloso sent out Artemis!
+FamSlayer's Xenoqueen used Radioacid!
+It's not very effective...
+Artemis took 10% damage!
+Artemis restored a little HP using its Leftovers!
+
+Turn 18
+
+FamSlayer withdrew Xenoqueen!
+FamSlayer sent out Baariette!
+Artemis's Attack fell!
+Jabuloso's Artemis used Head Smash!
+It's not very effective...
+Baariette took 12% damage!
+Artemis restored a little HP using its Leftovers!
+Baariette was hurt by poison!
+
+Turn 19
+
+Jabuloso withdrew Artemis!
+Jabuloso sent out Gyarados!
+Baariette's Attack fell!
+FamSlayer's Baariette used Aerial Ace!
+Gyarados took 10% damage!
+Baariette was hurt by poison!
+
+Turn 20
+
+FamSlayer withdrew Baariette!
+FamSlayer sent out Corsoreef!
+Jabuloso's Gyarados used Waterfall!
+A critical hit!
+Corsoreef took 44% damage!
+Corsoreef restored a little HP using its Leftovers!
+Corsoreef was hurt by poison!
+
+Turn 21
+
+Jabuloso's Gyarados used Waterfall!
+Corsoreef took 31% damage!
+FamSlayer's Corsoreef used Hidden Power!
+It's super effective!
+Gyarados took 25% damage!
+Corsoreef restored a little HP using its Leftovers!
+Corsoreef was hurt by poison!
+
+Turn 22
+
+FamSlayer withdrew Corsoreef!
+FamSlayer sent out Syrentide!
+Jabuloso's Gyarados used Waterfall!
+It's not very effective...
+Syrentide took 9% damage!
+
+Turn 23
+
+FamSlayer withdrew Syrentide!
+FamSlayer sent out Xenoqueen!
+Jabuloso's Gyarados used Rest!
+Gyarados fell asleep!
+
+Turn 24
+
+Jabuloso withdrew Gyarados!
+Jabuloso sent out Artemis!
+FamSlayer's Xenoqueen used Flamethrower!
+It's super effective!
+Artemis took 44% damage!
+Artemis was burned!
+Artemis restored a little HP using its Leftovers!
+Artemis was hurt by its burn!
+
+Turn 25
+
+FamSlayer withdrew Xenoqueen!
+FamSlayer sent out Gliscor!
+Jabuloso withdrew Artemis!
+Jabuloso sent out Aku-Aku!
+Gliscor restored a little HP using its Leftovers!
+
+Turn 26
+
+Jabuloso withdrew Aku-Aku!
+Jabuloso sent out Oryx!
+FamSlayer's Gliscor used U-turn!
+Oryx took 19% damage!
+FamSlayer withdrew Gliscor!
+FamSlayer sent out Xenoqueen!
+
+Turn 27
+
+Jabuloso withdrew Oryx!
+Jabuloso sent out Artemis!
+FamSlayer's Xenoqueen used Radioacid!
+It's not very effective...
+Artemis took 10% damage!
+Artemis restored a little HP using its Leftovers!
+Artemis was hurt by its burn!
+
+Turn 28
+
+FamSlayer withdrew Xenoqueen!
+FamSlayer sent out Gliscor!
+Jabuloso withdrew Artemis!
+Jabuloso sent out Navighast!
+
+Turn 29
+
+Jabuloso's Navighast used Shadow Claw!
+Gliscor took 23% damage!
+Navighast is hurt by its Life Orb!
+FamSlayer's Gliscor used U-turn!
+It's not very effective...
+Navighast took 5% damage!
+FamSlayer withdrew Gliscor!
+FamSlayer sent out Xenoqueen!
+
+Turn 30
+
+Jabuloso withdrew Navighast!
+Jabuloso sent out Gyarados!
+Xenoqueen's Attack fell!
+FamSlayer's Xenoqueen used Radioacid!
+It's super effective!
+Gyarados took 100% damage!
+Gyarados fainted!
+Jabuloso sent out Alpico!
+
+Turn 31
+
+Jabuloso's Alpico used Moonblast!
+It's super effective!
+Xenoqueen took 74% damage!
+FamSlayer's Xenoqueen used Radioacid!
+It's super effective!
+A critical hit!
+Alpico took 100% damage!
+Alpico fainted!
+Jabuloso sent out Aku-Aku!
+
+Turn 32
+
+FamSlayer withdrew Xenoqueen!
+FamSlayer sent out Corsoreef!
+Jabuloso's Aku-Aku used Flame Impact!
+It's not very effective...
+Corsoreef took 7% damage!
+Corsoreef restored a little HP using its Leftovers!
+Corsoreef was hurt by poison!
+
+Turn 33
+
+Jabuloso's Aku-Aku used Power Whip!
+Corsoreef avoided the attack!
+FamSlayer's Corsoreef used Recover!
+Corsoreef's HP was restored.
+Corsoreef restored a little HP using its Leftovers!
+Corsoreef was hurt by poison!
+
+Turn 34
+
+Jabuloso's Aku-Aku used Power Whip!
+It's super effective!
+A critical hit!
+Corsoreef took 87% damage!
+Corsoreef fainted!
+FamSlayer sent out Gliscor!
+
+Turn 35
+
+FamSlayer's Gliscor used Earthquake!
+Aku-Aku took 53% damage!
+Jabuloso's Aku-Aku used Power Whip!
+Gliscor took 41% damage!
+Gliscor restored a little HP using its Leftovers!
+
+Turn 36
+
+Jabuloso withdrew Aku-Aku!
+Jabuloso sent out Navighast!
+FamSlayer's Gliscor used U-turn!
+It's not very effective...
+Navighast took 4% damage!
+FamSlayer withdrew Gliscor!
+FamSlayer sent out Xenoqueen!
+
+Turn 37
+
+Jabuloso's Navighast used Shadow Sneak!
+It's super effective!
+Xenoqueen took 25% damage!
+Xenoqueen fainted!
+Navighast is hurt!
+Navighast is hurt by its Life Orb!
+FamSlayer sent out Baariette!
+Navighast's Attack fell!
+
+Turn 38
+
+FamSlayer's Baariette used Aerial Ace!
+It's super effective!
+Navighast took 33% damage!
+Navighast fainted!
+Baariette was hurt by poison!
+Jabuloso sent out Aku-Aku!
+
+Turn 39
+
+FamSlayer withdrew Baariette!
+FamSlayer sent out Gliscor!
+Jabuloso's Aku-Aku used Flame Impact!
+Gliscor took 20% damage!
+Gliscor restored a little HP using its Leftovers!
+
+Turn 40
+
+Jabuloso withdrew Aku-Aku!
+Jabuloso sent out Artemis!
+FamSlayer's Gliscor used Roost!
+Gliscor's HP was restored.
+Gliscor restored a little HP using its Leftovers!
+Artemis restored a little HP using its Leftovers!
+Artemis was hurt by its burn!
+
+Turn 41
+
+FamSlayer's Gliscor used Earthquake!
+It's super effective!
+Artemis took 27% damage!
+Artemis fainted!
+Gliscor restored a little HP using its Leftovers!
+Jabuloso sent out Oryx!
+
+Turn 42
+
+Oryx Mega Evolved into Mega Baariette!
+Jabuloso's Oryx used Knock Off!
+Gliscor took 35% damage!
+Oryx's Blood Lust restored its HP a little!
+Oryx knocked off Gliscor's Leftovers!
+FamSlayer's Gliscor used U-turn!
+Oryx took 14% damage!
+FamSlayer withdrew Gliscor!
+FamSlayer sent out Baariette!
+Oryx's Attack fell!
+Baariette was hurt by poison!
+
+Turn 43
+
+FamSlayer's Baariette used Hi Jump Kick!
+It's super effective!
+Oryx took 72% damage!
+Oryx fainted!
+Baariette was hurt by poison!
+Jabuloso sent out Aku-Aku!
+
+Turn 44
+
+Jabuloso's Aku-Aku used Flame Impact!
+Baariette took 3% damage!
+Baariette fainted!
+FamSlayer sent out Gliscor!
+
+Turn 45
+
+FamSlayer's Gliscor used Earthquake!
+Aku-Aku took 29% damage!
+Aku-Aku fainted!
+
+FamSlayer won!
+
+[16:36:26] Jabuloso: gg
+[16:36:27] FamSlayer: gg
+Your replay was saved! Share the link: https://sim.pokemonuranium.org/replays/50a42bcc4f3ba4e5eba088eca0defb6d7670c41b.
+[16:36:33] Vinii left!
+[16:37:05] Poisseman: tg both of you
+[16:37:21] Poisseman: *gg
+[16:37:33] Poisseman left!
+[16:41:34] Jabuloso left!
+[16:41:44] Jabuloso joined!
+[16:44:24] Jabuloso left!
+[16:45:39] Bryce left!
