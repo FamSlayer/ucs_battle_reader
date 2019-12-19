@@ -7,10 +7,10 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 
 player_1 = "FamSlayer"
-player_2 = "Dragonstrike"
+player_2 = "Thomas"
 
-##f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
-f = open("status battle 2.txt",'r').read()
+f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
+##f = open("status battle 2.txt",'r').read()
 
 
 
@@ -203,17 +203,12 @@ for c in components:
     pokemon_nickname = orig_lines[-1]
 
     # sneaky stuff: splitting the entire text of the battle by
-    # "X Pokemon Fainted" but one letter past 
+    #   "XPokemon Fainted" but one letter past 
     lines = f.split(pokemon_nickname[1:] + " fainted!")[0].split('\n')[-10:]
 
-##    for l in lines:
-##        print("start of l")
-##        print(l)
-##        print("end of l")
-    
-##    print("length of lines: " + str(len(lines)))
+    # this is what the program prints as proof of the kill
     kill_line = ""
-
+    
     i = len(lines)
     while(i>0):
         i-=1
@@ -226,7 +221,6 @@ for c in components:
                     if " used " in lines[i]:
                         kill_line = lines[i]
                         break
-                print(kill_line)
                 break
             
             # Death by some type of poison
@@ -245,9 +239,9 @@ for c in components:
 
                 attack_line = DeterminePoisonSource(pokemon_nickname, trainer_name)
                 if(attack_line[1]):
-                    print(attack_line[0] + " got an indirect kill with poison damage!")
+                    kill_line = attack_line[0] + " got an indirect kill with poison damage!"
                 else:
-                    print(pokemon_nickname + " died a self-inflicted death to poison :(")
+                    kill_line = pokemon_nickname + " died a self-inflicted death to poison :("
                 break
 
             # Death by burn
@@ -268,9 +262,9 @@ for c in components:
                     
                 attack_line = DetermineBurnSource(pokemon_nickname, trainer_name)
                 if(attack_line[1]):
-                    print(attack_line[0] + " got an indirect kill with burn damage!")
+                    kill_line = attack_line[0] + " got an indirect kill with burn damage!"
                 else:
-                    print(pokemon_nickname + " died a self-inflicted death to burn :(")
+                    kill_line = pokemon_nickname + " died a self-inflicted death to burn :("
                 break
 
             # Death by leech seed
@@ -290,7 +284,7 @@ for c in components:
                         break
                     
                 attack_line = DetermineLeechSeedSource(pokemon_nickname, trainer_name)
-                print(attack_line)
+                kill_line = attack_line[0] + " got an indirect kill with leech seed!" 
                 break
 
             # Death by stealth rock
@@ -303,7 +297,7 @@ for c in components:
                     trainer_string = player_2
 
                 killer_nickname = DetermineStealthRockSource(pokemon_nickname, trainer_string)
-                print(killer_nickname[1] + "'s " + killer_nickname[0] + " got an indirect kill with Stealth Rock!")
+                kill_line = killer_nickname[1] + "'s " + killer_nickname[0] + " got an indirect kill with Stealth Rock!"
                 break
 
             elif " is hurt by the spikes!" in lines[i]:
@@ -316,92 +310,51 @@ for c in components:
 
                 print("need to determine killer of " + pokemon_nickname + " belonging to " + trainer_string)
                 killer_nickname = DetermineSpikesSource(pokemon_nickname, trainer_string)
-                print(killer_nickname[1] + "'s " + killer_nickname[0] + " got an indirect kill with Spikes!")
+                kill_line = killer_nickname[1] + "'s " + killer_nickname[0] + " got an indirect kill with Spikes!"
                 break
 
             elif " used Memento!" in lines[i] or " used Explosion!" in lines[i] or " used Final Gambit!" in lines[i] or " used Fission Burst!" in lines[i]:
                 print("self kill!")
-                print(lines[i])
+                kill_line = lines[i]
                 break
 
             elif " is hurt!" in lines[i]:
                 print('"is hurt!" death - possible sources: aftermath')
                 if " fainted!" in lines[-3]:
                     killer_nickname = lines[-3].split(" fainted!")[0]
-                    print(killer_nickname + " got an indirect kill with aftermath!")
+                    kill_line = killer_nickname + " got an indirect kill with aftermath!"                    
                 break
             
             elif " is hurt by its Life Orb!" in lines[i]:
                 print("self kill to life orb")
+                kill_line = pokemon_nickname + " died from Life Orb recoil!"
                 break
 
             elif " is hurt by " in lines[i] and "'s Rocky Helmet!" in lines[i]:
                 print("rockey helmet kill")
                 killer_nickname = lines[i].split(" is hurt by ")[-1].split("'s Rocky Helmet!")[0]
-                print(killer_nickname + " got a kill with Rocky Helmet!")
+                kill_line = killer_nickname + " got a kill with Rocky Helmet!"
                 break
 
             elif " was hit by recoil!" in lines[i]:
                 print("self kill to recoil move!")
                 break
 
+
+    # if we get to the end and there was no kill, then we have to check destiny bond
+    #   this line says "took its foe down with it" but comes AFTER the fainted line
+    #   which is why we check for it here instead of earlier
+    if kill_line == "":
+        # look for destiny bond kill
+        dbond_lines = f.split(pokemon_nickname[1:] + " fainted!")[1].split('\n')[1:5]
+
+        if " took its attacker down with it!" in dbond_lines[0]:
+            killer_nickname = dbond_lines[0].split(" took its attacker down with it!")[0]
+            print(killer_nickname + " got a DIRECT kill on " + pokemon_nickname + " with Destiny Bond!")
+            kill_line = dbond_lines[0]
+            
+    
+    print(kill_line)
         
     print(pokemon_nickname + " fainted!")
     print()
-
-##    
-##    ##  Direct Kill
-##    if "% damage!" in lines[-2] or ((len(lines) > 4) and "% damage!" in lines[-3]) or ((len(lines) > 5) and "% damage!" in lines[-4]):
-##        i = len(lines)-1
-##        while(i>0):
-##            if " used " in lines[i]:
-##                kill_line = lines[i]
-##                print(kill_line)
-##                break
-##            i-=1
-##        
-##            
-##    ##  Determine Indirect Kill
-####    else:
-####        print("\tdied indirectly")
-####        print(lines[-2])
-##    ##  Type of Poison
-##    elif " was hurt by poison!" in lines[-2]:
-##        print("poison death")
-##
-##    elif " was hurt by its burn!" in lines[-2]:
-##        print("burned to death")
-##
-##    elif " health is sapped by Leech Seed!" in lines[-2]:
-##        print("death by LEECH SEED")
-##
-##
-##    ## Stealth Rocks Death
-##    elif "Pointed stones dug into" in lines[-2]:
-##        trainer_1 = player_1 in lines[-3]
-####            print("splitting by the line: " + lines[-2])
-##        pokemon_sent_out = f.split(lines[-2])
-####            print(pokemon_sent_out[-2])
-##                
-##        previous_stealth_rocks = pokemon_sent_out[-2].split(" used Stealth Rock!")
-####            print(previous_stealth_rocks[-2])
-##
-##        bits = previous_stealth_rocks[-2].split(player_2)
-##        if not trainer_1:
-##            bits = previous_stealth_rocks[-2].split(player_1)
-##
-##        nickname = bits[-1].split("'s ")[-1]
-##        
-##        print_string = player_1
-##        if not trainer_1:
-##            print_string = player_2
-##
-##        print_string += "'s " + nickname + " got an indirect kill with Stealth Rock!"
-##        print(print_string)
-       
-
-            
-            
-
-            
-    

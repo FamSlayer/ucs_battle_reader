@@ -1,0 +1,201 @@
+[14:15:43] Thomas joined!
+FamSlayer sent out Beliaddon!
+Thomas sent out Astronite!
+Astronite's Attack fell!
+Beliaddon's Attack fell!
+It traced the foe's Intimidate!
+
+Turn 1
+
+[14:16:07] FamSlayer: this doesn't feel like destiny bond
+FamSlayer withdrew Beliaddon!
+FamSlayer sent out Laissure!
+Thomas's Astronite used Power Gem!
+It's not very effective...
+Laissure took 18% damage!
+
+Turn 2
+
+[14:17:21] FamSlayer: where is destony bond
+Thomas withdrew Astronite!
+Thomas sent out Navighast!
+FamSlayer's Laissure used Rock Polish!
+Laissure's Speed rose sharply!
+
+Turn 3
+
+[14:17:32] Thomas: dont kill me now
+FamSlayer's Laissure used Ice Fang!
+Navighast took 72% damage!
+Laissure is hurt by its Life Orb!
+Navighast flinched!
+
+Turn 4
+
+FamSlayer's Laissure used Earthquake!
+But it doesn't affect Navighast...
+Thomas's Navighast used Destiny Bond!
+Navighast is trying to take its foe down with it!
+
+Turn 5
+
+[14:17:53] Thomas: well kill me at some point
+FamSlayer's Laissure used Ice Fang!
+Navighast took 27% damage!
+Laissure's Attack rose!
+Navighast fainted!
+Laissure fainted!
+Navighast took its attacker down with it!
+Thomas sent out Astronite!
+FamSlayer sent out Dramsama!
+
+Turn 6
+
+Dramsama Mega Evolved into Mega Dramsama!
+Thomas's Astronite used Stealth Rock!
+Pointed stones float in the air around your team!
+FamSlayer's Dramsama used Dark Pulse!
+It's super effective!
+Astronite took 85% damage!
+
+Turn 7
+
+Thomas's Astronite used Magic Coat!
+FamSlayer's Dramsama used Shadow Ball!
+It's super effective!
+Astronite took 14% damage!
+Astronite fainted!
+Thomas sent out Escartress!
+[14:19:01] FamSlayer: how you expect to get in with no clout?
+A sandstorm kicked up!
+
+Turn 8
+
+FamSlayer's Dramsama used Shadow Ball!
+Escartress took 56% damage!
+Thomas's Escartress used Shell Smash!
+Escartress's Attack rose sharply!
+Escartress's Special Attack rose sharply!
+Escartress's Speed rose sharply!
+Escartress's Defense fell!
+Escartress's Special Defense fell!
+Escartress restored its status using its White Herb!
+The sandstorm rages.
+Dramsama is buffeted by the sandstorm!
+
+Turn 9
+
+[14:19:16] Thomas: wdym
+[14:19:22] FamSlayer: it's a referenfe
+[14:19:24] FamSlayer: reference
+Thomas's Escartress used Surf!
+Dramsama took 93% damage!
+Dramsama fainted!
+The sandstorm rages.
+FamSlayer sent out Vaporeon!
+Pointed stones dug into Vaporeon!
+
+Turn 10
+
+Thomas's Escartress used Earth Power!
+Vaporeon took 49% damage!
+FamSlayer's Vaporeon used Scald!
+Escartress took 37% damage!
+Escartress was burned!
+The sandstorm rages.
+Vaporeon is buffeted by the sandstorm!
+Vaporeon restored a little HP using its Leftovers!
+Escartress was hurt by its burn!
+Escartress fainted!
+Thomas sent out Cocancer!
+
+Turn 11
+
+Thomas's Cocancer used Shell Smash!
+Cocancer's Attack rose sharply!
+Cocancer's Special Attack rose sharply!
+Cocancer's Speed rose sharply!
+Cocancer's Defense fell!
+Cocancer's Special Defense fell!
+Cocancer restored its status using its White Herb!
+FamSlayer's Vaporeon used Ice Beam!
+It's super effective!
+Cocancer took 80% damage!
+The sandstorm rages.
+Vaporeon is buffeted by the sandstorm!
+Vaporeon restored a little HP using its Leftovers!
+
+Turn 12
+
+[14:20:06] Thomas: cancer the goat
+Thomas's Cocancer used Leaf Blade!
+It's super effective!
+Vaporeon took 37% damage!
+Vaporeon fainted!
+The sandstorm subsided.
+FamSlayer sent out Beliaddon!
+Pointed stones dug into Beliaddon!
+Cocancer's Attack fell!
+
+Turn 13
+
+FamSlayer withdrew Beliaddon!
+FamSlayer sent out Gliscor!
+Pointed stones dug into Gliscor!
+Thomas's Cocancer used Earthquake!
+But it doesn't affect Gliscor...
+Gliscor was badly poisoned!
+
+Turn 14
+
+FamSlayer withdrew Gliscor!
+FamSlayer sent out Beliaddon!
+Pointed stones dug into Beliaddon!
+Cocancer's Attack fell!
+Thomas's Cocancer used Shell Smash!
+Cocancer's Attack rose sharply!
+Cocancer's Special Attack rose sharply!
+Cocancer's Speed rose sharply!
+Cocancer's Defense fell!
+Cocancer's Special Defense fell!
+
+Turn 15
+
+Thomas's Cocancer used Earthquake!
+It's super effective!
+Beliaddon took 50% damage!
+Beliaddon fainted!
+FamSlayer sent out Coatlith!
+Pointed stones dug into Coatlith!
+
+Turn 16
+
+Thomas's Cocancer used Fire Punch!
+Coatlith took 28% damage!
+FamSlayer's Coatlith used Energy Ball!
+Cocancer took 19% damage!
+Cocancer fainted!
+Coatlith restored a little HP using its Leftovers!
+Thomas sent out Archilles!
+
+Turn 17
+
+The sunlight turned harsh!
+Archilles Mega Evolved into Mega Archilles!
+Thomas's Archilles used Hidden Power!
+It's super effective!
+Coatlith took 65% damage!
+Coatlith fainted!
+FamSlayer sent out Gliscor!
+Pointed stones dug into Gliscor!
+
+Turn 18
+
+Thomas's Archilles used Hidden Power!
+It's super effective!
+Gliscor took 75% damage!
+Gliscor fainted!
+
+Thomas won!
+
+[14:21:54] Thomas: gg
