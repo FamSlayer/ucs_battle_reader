@@ -1,0 +1,355 @@
+[12:31:55] Jabuloso joined!
+Spoder sent out Leafeon!
+FamSlayer sent out Feliger!
+[12:32:32] Wes joined!
+
+Turn 1
+
+Spoder's Leafeon used Toxic!
+Feliger avoided the attack!
+FamSlayer's Feliger used Ice Punch!
+It's super effective!
+Leafeon took 50% damage!
+Leafeon restored a little HP using its Leftovers!
+
+Turn 2
+
+FamSlayer withdrew Feliger!
+FamSlayer sent out S51!
+Spoder's Leafeon used Swords Dance!
+Leafeon's Attack rose sharply!
+Leafeon restored a little HP using its Leftovers!
+
+Turn 3
+
+Spoder's Leafeon used Synthesis!
+Leafeon's HP was restored.
+FamSlayer's S51 used Toxic!
+Leafeon was badly poisoned!
+Leafeon was hurt by poison!
+
+Turn 4
+
+Spoder's Leafeon used Swords Dance!
+Leafeon's Attack rose sharply!
+FamSlayer's S51 used U-turn!
+It's super effective!
+A critical hit!
+Leafeon took 33% damage!
+FamSlayer withdrew S51!
+FamSlayer sent out Sableye!
+Leafeon restored a little HP using its Leftovers!
+Leafeon was hurt by poison!
+
+Turn 5
+
+[12:33:49] Tan joined!
+Spoder's Leafeon used Leaf Blade!
+Sableye took 100% damage!
+Sableye fainted!
+Leafeon restored a little HP using its Leftovers!
+Leafeon was hurt by poison!
+FamSlayer sent out S51!
+
+Turn 6
+
+Spoder's Leafeon used Swords Dance!
+Leafeon's Attack rose sharply!
+FamSlayer's S51 used Recover!
+But it failed!
+Leafeon restored a little HP using its Leftovers!
+Leafeon was hurt by poison!
+
+Turn 7
+
+Spoder's Leafeon used Synthesis!
+Leafeon's HP was restored.
+FamSlayer's S51 used Recover!
+But it failed!
+Leafeon restored a little HP using its Leftovers!
+Leafeon was hurt by poison!
+
+Turn 8
+
+Spoder's Leafeon used Leaf Blade!
+It's not very effective...
+S51 took 54% damage!
+FamSlayer's S51 used Recover!
+S51's HP was restored.
+Leafeon restored a little HP using its Leftovers!
+Leafeon was hurt by poison!
+
+Turn 9
+
+Spoder's Leafeon used Leaf Blade!
+It's not very effective...
+S51 took 54% damage!
+FamSlayer's S51 used Recover!
+S51's HP was restored.
+Leafeon restored a little HP using its Leftovers!
+Leafeon was hurt by poison!
+Leafeon fainted!
+Spoder sent out Inflagetah!
+
+Turn 10
+
+FamSlayer withdrew S51!
+FamSlayer sent out Syrentide!
+Inflagetah Mega Evolved into Mega Inflagetah!
+Spoder's Inflagetah used Swords Dance!
+Inflagetah's Attack rose sharply!
+
+Turn 11
+
+Syrentide Mega Evolved into Mega Syrentide!
+Spoder's Inflagetah used Thunder Fang!
+It's super effective!
+Syrentide took 53% damage!
+FamSlayer's Syrentide used Surf!
+It's super effective!
+Inflagetah took 87% damage!
+
+Turn 12
+
+Spoder's Inflagetah used Thunder Fang!
+It's super effective!
+Syrentide took 47% damage!
+Syrentide fainted!
+FamSlayer sent out Corsoreef!
+
+Turn 13
+
+Spoder's Inflagetah used Thunder Fang!
+It's super effective!
+Corsoreef took 67% damage!
+FamSlayer's Corsoreef used Power Gem!
+It's super effective!
+Inflagetah took 12% damage!
+Inflagetah fainted!
+Corsoreef restored a little HP using its Leftovers!
+Spoder sent out Jolteon!
+
+Turn 14
+
+FamSlayer withdrew Corsoreef!
+FamSlayer sent out Feliger!
+Spoder's Jolteon used Volt Switch!
+Feliger took 28% damage!
+Jolteon is hurt by its Life Orb!
+Spoder withdrew Jolteon!
+Spoder sent out Empirilla!
+Feliger restored a little HP using its Leftovers!
+
+Turn 15
+
+FamSlayer withdrew Feliger!
+FamSlayer sent out S51!
+Spoder's Empirilla used Close Combat!
+A critical hit!
+S51 took 59% damage!
+Empirilla's Defense fell!
+Empirilla's Special Defense fell!
+
+Turn 16
+
+Spoder's Empirilla used Bulk Up!
+Empirilla's Attack rose!
+Empirilla's Defense rose!
+FamSlayer's S51 used Toxic!
+Empirilla was badly poisoned!
+Empirilla was hurt by poison!
+
+Turn 17
+
+Spoder's Empirilla used Bulk Up!
+Empirilla's Attack rose!
+Empirilla's Defense rose!
+FamSlayer's S51 used Recover!
+S51's HP was restored.
+Empirilla restored a little HP using its Leftovers!
+Empirilla was hurt by poison!
+
+Turn 18
+
+FamSlayer withdrew S51!
+FamSlayer sent out Baariette!
+Empirilla's Attack fell!
+Spoder's Empirilla used Bulk Up!
+Empirilla's Attack rose!
+Empirilla's Defense rose!
+Empirilla restored a little HP using its Leftovers!
+Empirilla was hurt by poison!
+
+Turn 19
+
+Spoder's Empirilla used Close Combat!
+It's super effective!
+Baariette took 100% damage!
+Empirilla's Defense fell!
+Empirilla's Special Defense fell!
+Baariette fainted!
+Empirilla restored a little HP using its Leftovers!
+Empirilla was hurt by poison!
+FamSlayer sent out S51!
+
+Turn 20
+
+Spoder's Empirilla used Close Combat!
+S51 took 75% damage!
+Empirilla's Defense fell!
+Empirilla's Special Defense fell!
+FamSlayer's S51 used Recover!
+S51's HP was restored.
+Empirilla restored a little HP using its Leftovers!
+Empirilla was hurt by poison!
+
+Turn 21
+
+Spoder's Empirilla used Bulk Up!
+Empirilla's Attack rose!
+Empirilla's Defense rose!
+FamSlayer's S51 used Recover!
+S51's HP was restored.
+Empirilla restored a little HP using its Leftovers!
+Empirilla was hurt by poison!
+
+Turn 22
+
+Spoder's Empirilla used Close Combat!
+S51 took 100% damage!
+Empirilla's Defense fell!
+Empirilla's Special Defense fell!
+S51 fainted!
+Empirilla restored a little HP using its Leftovers!
+Empirilla was hurt by poison!
+Empirilla fainted!
+FamSlayer sent out Feliger!
+Spoder sent out Jolteon!
+
+Turn 23
+
+Spoder's Jolteon used Thunderbolt!
+Feliger took 34% damage!
+Jolteon is hurt by its Life Orb!
+FamSlayer's Feliger used Slack Off!
+Feliger's HP was restored.
+Feliger restored a little HP using its Leftovers!
+
+Turn 24
+
+Spoder's Jolteon used Volt Switch!
+Feliger took 27% damage!
+Jolteon is hurt by its Life Orb!
+Spoder withdrew Jolteon!
+Spoder sent out Espeon!
+FamSlayer's Feliger used Earthquake!
+Espeon took 65% damage!
+Feliger restored a little HP using its Leftovers!
+
+Turn 25
+
+Spoder's Espeon used Hidden Power!
+It's super effective!
+Feliger took 29% damage!
+Espeon is hurt by its Life Orb!
+FamSlayer's Feliger used Slack Off!
+Feliger's HP was restored.
+Feliger restored a little HP using its Leftovers!
+
+Turn 26
+
+Spoder's Espeon used Hidden Power!
+It's super effective!
+Feliger took 29% damage!
+Espeon is hurt by its Life Orb!
+FamSlayer's Feliger used Earthquake!
+Espeon took 14% damage!
+Espeon fainted!
+Feliger restored a little HP using its Leftovers!
+Spoder sent out Fafninter!
+
+Turn 27
+
+FamSlayer's Feliger used Slack Off!
+Feliger's HP was restored.
+Spoder's Fafninter used Dragon Tail!
+Feliger took 22% damage!
+FamSlayer withdrew Feliger!
+FamSlayer sent out Corsoreef!
+Corsoreef restored a little HP using its Leftovers!
+
+Turn 28
+
+Spoder's Fafninter used Earthquake!
+It's super effective!
+Corsoreef took 45% damage!
+FamSlayer's Corsoreef used Toxic!
+Fafninter was badly poisoned!
+Corsoreef restored a little HP using its Leftovers!
+Fafninter was hurt by poison!
+
+Turn 29
+
+FamSlayer withdrew Corsoreef!
+FamSlayer sent out Feliger!
+Spoder's Fafninter used Earthquake!
+Feliger took 25% damage!
+Feliger restored a little HP using its Leftovers!
+Fafninter was hurt by poison!
+
+Turn 30
+
+Spoder's Fafninter used Stone Edge!
+Feliger avoided the attack!
+FamSlayer's Feliger used Slack Off!
+Feliger's HP was restored.
+Fafninter was hurt by poison!
+
+Turn 31
+
+FamSlayer's Feliger used Brick Break!
+It's super effective!
+Fafninter took 20% damage!
+Spoder's Fafninter used Dragon Tail!
+Feliger took 23% damage!
+FamSlayer withdrew Feliger!
+FamSlayer sent out Corsoreef!
+Corsoreef restored a little HP using its Leftovers!
+Fafninter was hurt by poison!
+
+Turn 32
+
+Spoder's Fafninter used Earthquake!
+It's super effective!
+Corsoreef took 44% damage!
+FamSlayer's Corsoreef used Power Gem!
+It's super effective!
+Fafninter took 18% damage!
+Fafninter fainted!
+Corsoreef restored a little HP using its Leftovers!
+Spoder sent out Jolteon!
+
+Turn 33
+
+Spoder's Jolteon used Thunderbolt!
+It's super effective!
+Corsoreef took 40% damage!
+Corsoreef fainted!
+Jolteon is hurt by its Life Orb!
+FamSlayer sent out Feliger!
+
+Turn 34
+
+Spoder's Jolteon used Thunderbolt!
+Feliger took 34% damage!
+Jolteon is hurt by its Life Orb!
+FamSlayer's Feliger used Earthquake!
+It's super effective!
+[12:39:46] Spoder: gg
+Jolteon took 50% damage!
+Jolteon fainted!
+[12:39:46] Wes left!
+
+FamSlayer won!
+
+[12:39:48] FamSlayer: gg

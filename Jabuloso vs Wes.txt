@@ -1,0 +1,228 @@
+[19:19:42] Jabuloso: u2
+Jabuloso sent out Oryx!
+Wes sent out Volta!
+
+Turn 1
+
+Oryx Mega Evolved into Mega Baariette!
+Wes's Volta used Volt Switch!
+Oryx took 30% damage!
+Wes withdrew Volta!
+Wes sent out Cadbury!
+Jabuloso's Oryx used Knock Off!
+It's not very effective...
+Cadbury took 15% damage!
+Oryx's Blood Lust restored its HP a little!
+Oryx knocked off Cadbury's Life Orb!
+
+Turn 2
+
+Jabuloso withdrew Oryx!
+Jabuloso sent out Glison!
+Wes's Cadbury used Moonblast!
+Glison took 33% damage!
+
+Turn 3
+
+Wes's Cadbury used Moonblast!
+Glison took 33% damage!
+Jabuloso's Glison used U-turn!
+It's not very effective...
+Cadbury took 3% damage!
+Jabuloso withdrew Glison!
+Jabuloso sent out Boreas!
+
+Turn 4
+
+Jabuloso's Boreas used Moonblast!
+It's super effective!
+Cadbury took 81% damage!
+Cadbury fainted!
+Wes sent out John Deer!
+
+Turn 5
+
+Jabuloso withdrew Boreas!
+Jabuloso sent out Ryujin!
+John Deer's Attack fell!
+John Deer burrowed its way under the ground!
+John Deer's Speed rose!
+
+Turn 6
+
+Wes's John Deer used Dig!
+But it doesn't affect Ryujin...
+Jabuloso's Ryujin used Roar!
+Wes withdrew John Deer!
+Wes sent out Volta!
+
+Turn 7
+
+Jabuloso withdrew Ryujin!
+Jabuloso sent out Glison!
+Wes's Volta used Instant Crush!
+Glison took 24% damage!
+
+Turn 8
+
+Jabuloso withdrew Glison!
+Jabuloso sent out Oryx!
+[19:23:54] Wes: CRAP
+Wes's Volta used Focus Blast!
+[19:23:57] Jabuloso: oof
+Oryx avoided the attack!
+[19:24:01] Wes: IF THAT HIT THO
+
+Turn 9
+
+[19:24:09] Jabuloso: really dodged a bullet there
+[19:24:13] Jabuloso: thank you Pokemon gods
+[19:24:17] Wes: lol
+Jabuloso's Oryx used Knock Off!
+It's super effective!
+Volta hung on using its Focus Sash!
+Volta took 99% damage!
+Oryx's Blood Lust restored its HP a little!
+Wes's Volta used Focus Blast!
+It's super effective!
+Oryx took 78% damage!
+
+Turn 10
+
+Jabuloso's Oryx used Knock Off!
+It's super effective!
+Volta took 0% damage!
+Oryx's Blood Lust restored its HP a little!
+Volta fainted!
+Wes sent out Medusa!
+
+Turn 11
+
+Jabuloso withdrew Oryx!
+Jabuloso sent out Glison!
+Wes's Medusa used Overheat!
+Glison took 9% damage!
+Medusa's Special Attack rose sharply!
+Glison fainted!
+Medusa is hurt by its Life Orb!
+Jabuloso sent out Ryujin!
+Medusa's Attack rose!
+
+Turn 12
+
+Wes's Medusa used Sludge Bomb!
+Ryujin took 87% damage!
+Medusa is hurt by its Life Orb!
+Jabuloso's Ryujin used Waterfall!
+It's super effective!
+Medusa took 80% damage!
+Medusa fainted!
+Wes sent out Avalon!
+
+Turn 13
+
+Jabuloso's Ryujin used Waterfall!
+It's super effective!
+Avalon took 43% damage!
+Wes's Avalon used Power Gem!
+The Charti Berry weakened the damage to Ryujin!
+It's super effective!
+Ryujin took 12% damage!
+Ryujin fainted!
+Avalon restored a little HP using its Leftovers!
+Jabuloso sent out Oryx!
+
+Turn 14
+
+Wes's Avalon used Protect!
+Avalon protected itself!
+Jabuloso's Oryx used Superpower!
+Avalon restored a little HP using its Leftovers!
+
+Turn 15
+
+Wes withdrew Avalon!
+Wes sent out Narcissa!
+[19:26:50] Wes: oop
+Jabuloso's Oryx used Superpower!
+But it doesn't affect Narcissa...
+
+Turn 16
+
+Jabuloso's Oryx used Knock Off!
+It's super effective!
+Narcissa took 100% damage!
+Oryx's Blood Lust restored its HP a little!
+Oryx knocked off Narcissa's Eviolite!
+Narcissa fainted!
+Wes sent out John Deer!
+
+Turn 17
+
+Jabuloso's Oryx used Superpower!
+It's super effective!
+John Deer hung on using its Focus Sash!
+John Deer took 99% damage!
+Oryx's Blood Lust restored its HP a little!
+Oryx's Attack fell!
+Oryx's Defense fell!
+Wes's John Deer used Iron Head!
+Oryx took 37% damage!
+Oryx fainted!
+John Deer's Speed rose!
+Jabuloso sent out Boreas!
+[19:27:08] Wes: gg
+
+Turn 18
+
+John Deer burrowed its way under the ground!
+Jabuloso's Boreas used Hidden Power!
+John Deer avoided the attack!
+John Deer's Speed rose!
+
+Turn 19
+
+Wes's John Deer used Dig!
+Boreas took 32% damage!
+[19:27:15] Jabuloso: gg
+Jabuloso's Boreas used Hidden Power!
+It's super effective!
+John Deer took 0% damage!
+John Deer fainted!
+Wes sent out Avalon!
+[19:27:20] Jabuloso: that focus blast tho
+[19:27:21] Wes: rebuild doesnt work rip
+
+Turn 20
+
+Jabuloso's Boreas used Hidden Power!
+It's super effective!
+[19:27:23] Wes: yeah
+Avalon took 60% damage!
+Wes's Avalon used Power Gem!
+It's super effective!
+Boreas took 55% damage!
+Avalon restored a little HP using its Leftovers!
+
+Turn 21
+
+Wes's Avalon used Protect!
+Avalon protected itself!
+Jabuloso's Boreas used Hidden Power!
+[19:27:29] Jabuloso: I was tricked by the way mega works
+Avalon restored a little HP using its Leftovers!
+
+Turn 22
+
+Jabuloso's Boreas used Hidden Power!
+[19:27:31] Wes: Yet again I can blame my lossn RNG
+It's super effective!
+Avalon took 19% damage!
+Avalon fainted!
+
+Jabuloso won!
+
+[19:27:44] Jabuloso: Neopunk is faster than regular baariette
+[19:27:48] Wes left!
+[19:28:04] Jabuloso left!
+[19:28:07] Jabuloso joined!

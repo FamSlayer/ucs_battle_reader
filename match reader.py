@@ -6,8 +6,8 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 
 
-player_1 = "FamSlayer"
-player_2 = "Thomas"
+player_1 = "Spoder"
+player_2 = "FamSlayer"
 
 f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
 ##f = open("status battle 2.txt",'r').read()
