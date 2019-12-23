@@ -6,8 +6,8 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 
 
-player_1 = "Spoder"
-player_2 = "FamSlayer"
+player_1 = "Poisseman"
+player_2 = "Tan"
 
 f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
 ##f = open("status battle 2.txt",'r').read()
@@ -313,7 +313,7 @@ for c in components:
                 kill_line = killer_nickname[1] + "'s " + killer_nickname[0] + " got an indirect kill with Spikes!"
                 break
 
-            elif " used Memento!" in lines[i] or " used Explosion!" in lines[i] or " used Final Gambit!" in lines[i] or " used Fission Burst!" in lines[i]:
+            elif " used Memento!" in lines[i] or " used Explosion!" in lines[i] or " used Final Gambit!" in lines[i] or " used Fission Burst!" in lines[i] or " used Struggle!" in lines[i]:
                 print("self kill!")
                 kill_line = lines[i]
                 break
