@@ -1,0 +1,234 @@
+Spoder sent out failed deoxys!
+Wes sent out Bubblaine!
+A sandstorm kicked up!
+
+Turn 1
+
+Spoder's failed deoxys used Hidden Power!
+It's super effective!
+Bubblaine took 100% damage!
+Bubblaine fainted!
+The sandstorm rages.
+Wes sent out Montgomery!
+[17:51:13] Poisseman joined!
+
+Turn 2
+
+[17:51:14] Cacophony joined!
+Montgomery Mega Evolved into Mega Drilgann!
+Wes's Montgomery used Knock Off!
+It's super effective!
+failed deoxys hung on using its Focus Sash!
+failed deoxys took 99% damage!
+Spoder's failed deoxys used Hidden Power!
+It's super effective!
+Montgomery took 83% damage!
+The sandstorm rages.
+
+Turn 3
+
+Wes's Montgomery used Earthquake!
+It's super effective!
+failed deoxys took 0% damage!
+failed deoxys fainted!
+The sandstorm rages.
+Spoder sent out fredina mercury!
+
+Turn 4
+
+Wes withdrew Montgomery!
+Wes sent out Volta!
+Spoder's fredina mercury used Aqua Jet!
+Volta took 49% damage!
+The sandstorm rages.
+fredina mercury is buffeted by the sandstorm!
+Volta is buffeted by the sandstorm!
+
+Turn 5
+
+Spoder's fredina mercury used Aqua Jet!
+Volta took 45% damage!
+Volta fainted!
+The sandstorm rages.
+fredina mercury is buffeted by the sandstorm!
+Wes sent out Avalon!
+
+Turn 6
+
+Spoder withdrew fredina mercury!
+Spoder sent out bat shit crazy!
+Wes's Avalon used Will-O-Wisp!
+bat shit crazy was burned!
+The sandstorm rages.
+bat shit crazy was hurt by its burn!
+
+Turn 7
+
+Spoder's bat shit crazy used Toxic!
+Avalon was badly poisoned!
+Wes's Avalon used Cosmic Power!
+Avalon's Defense rose!
+Avalon's Special Defense rose!
+The sandstorm rages.
+bat shit crazy was hurt by its burn!
+Avalon was hurt by poison!
+
+Turn 8
+
+Wes's Avalon used Protect!
+Avalon protected itself!
+Spoder's bat shit crazy used Roost!
+bat shit crazy's HP was restored.
+The sandstorm subsided.
+Avalon restored a little HP using its Leftovers!
+bat shit crazy was hurt by its burn!
+Avalon was hurt by poison!
+
+Turn 9
+
+Spoder's bat shit crazy used Roost!
+bat shit crazy's HP was restored.
+Wes's Avalon used Power Gem!
+It's not very effective...
+bat shit crazy took 11% damage!
+Avalon restored a little HP using its Leftovers!
+bat shit crazy was hurt by its burn!
+Avalon was hurt by poison!
+
+Turn 10
+
+Wes withdrew Avalon!
+Wes sent out Sir Charles!
+bat shit crazy's Attack fell!
+Spoder's bat shit crazy used Roost!
+bat shit crazy's HP was restored.
+bat shit crazy was hurt by its burn!
+
+Turn 11
+
+Spoder withdrew bat shit crazy!
+Spoder sent out grandpa rudy!
+Wes's Sir Charles used Knock Off!
+grandpa rudy took 14% damage!
+Sir Charles knocked off grandpa rudy's Assault Vest!
+
+Turn 12
+
+Spoder's grandpa rudy used Icicle Crash!
+Sir Charles took 46% damage!
+Wes's Sir Charles used Return!
+grandpa rudy took 25% damage!
+
+Turn 13
+
+Wes's Sir Charles used Slack Off!
+Sir Charles's HP was restored.
+Spoder's grandpa rudy used Avalanche!
+Sir Charles took 29% damage!
+
+Turn 14
+
+[17:52:48] Bryce joined!
+Wes's Sir Charles used Slack Off!
+Sir Charles's HP was restored.
+Spoder's grandpa rudy used Avalanche!
+Sir Charles took 34% damage!
+
+Turn 15
+
+Wes withdrew Sir Charles!
+Wes sent out Medusa!
+Spoder's grandpa rudy used Dragon Tail!
+Medusa took 32% damage!
+Wes withdrew Medusa!
+Wes sent out Montgomery!
+
+Turn 16
+
+Spoder's grandpa rudy used Earthquake!
+Montgomery took 16% damage!
+Montgomery fainted!
+Wes sent out Avalon!
+
+Turn 17
+
+Spoder's grandpa rudy used Earthquake!
+It's super effective!
+Avalon took 37% damage!
+Wes's Avalon used Power Gem!
+It's super effective!
+grandpa rudy took 45% damage!
+Avalon restored a little HP using its Leftovers!
+Avalon was hurt by poison!
+
+Turn 18
+
+Wes withdrew Avalon!
+Wes sent out Sir Charles!
+grandpa rudy's Attack fell!
+Spoder's grandpa rudy used Earthquake!
+Sir Charles took 24% damage!
+
+Turn 19
+
+Wes's Sir Charles used Slack Off!
+Sir Charles's HP was restored.
+Spoder's grandpa rudy used Dragon Tail!
+Sir Charles took 22% damage!
+Wes withdrew Sir Charles!
+Wes sent out Avalon!
+Avalon restored a little HP using its Leftovers!
+Avalon was hurt by poison!
+
+Turn 20
+
+Spoder's grandpa rudy used Earthquake!
+It's super effective!
+Avalon took 25% damage!
+Wes's Avalon used Will-O-Wisp!
+grandpa rudy was burned!
+Avalon restored a little HP using its Leftovers!
+grandpa rudy was hurt by its burn!
+Avalon was hurt by poison!
+
+Turn 21
+
+Wes's Avalon used Protect!
+Avalon protected itself!
+Spoder's grandpa rudy used Earthquake!
+Avalon restored a little HP using its Leftovers!
+grandpa rudy was hurt by its burn!
+Avalon was hurt by poison!
+grandpa rudy fainted!
+Avalon fainted!
+Wes sent out Sir Charles!
+Spoder sent out quickity quick!
+quickity quick's Attack fell!
+
+Turn 22
+
+Spoder's quickity quick used Volt Switch!
+Sir Charles took 36% damage!
+Spoder withdrew quickity quick!
+Spoder sent out demon bug!
+Wes's Sir Charles used Knock Off!
+demon bug took 28% damage!
+
+Turn 23
+
+Spoder's demon bug used Acrobatics!
+Sir Charles took 32% damage!
+Sir Charles fainted!
+Wes sent out Medusa!
+
+Turn 24
+
+Spoder's demon bug used Drill Run!
+It's super effective!
+Medusa took 67% damage!
+Medusa fainted!
+
+Spoder won!
+
+[17:54:27] Wes: oof gg
+[17:54:27] Tan: gg

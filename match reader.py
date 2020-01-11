@@ -6,8 +6,8 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 
 
-player_1 = "Jabuloso"
-player_2 = "Tan"
+player_1 = "Spoder"
+player_2 = "Wes"
 
 f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
 ##f = open("status battle 2.txt",'r').read()
@@ -231,7 +231,7 @@ for c in components:
                 trainer_name = player_1
                 while(i>0):
                     i-=1
-                    if (player_2 + "'s") in lines[i][:len(player_2)+1] and pokemon_nickname in lines[i]:
+                    if player_2 in lines[i][:len(player_2)+1] and pokemon_nickname in lines[i]:
                         trainer_name = player_2
                         break
                     if "Turn " in lines[i]:
