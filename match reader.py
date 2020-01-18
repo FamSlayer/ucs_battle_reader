@@ -1,21 +1,26 @@
 
+# global defines
 MOVES_THAT_BURN = ["Ember", "Fire Blast", "Fire Fang", "Fire Punch", "Flame Wheel", "Flamethrower", "Flare Blitz", "Fling", "Infernal Blade", "Inferno", "Lava Plume", "Radioacid", "Radioacid", "Scald", "Tri Attack", "Will-O-Wisp",]
 MOVES_THAT_TOXIC = ["Fling", "Nuclear Waste", "Toxic"]
 MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Poison Powder", "Poison Sting", "Poison Tail", "Sludge", "Sludge Bomb", "Sludge Wave", "Smog"]
 
 
 
-
-player_1 = "Spoder"
-player_2 = "Wes"
+# yes, I manually set this for every battle.
+player_1 = "FamSlayer"
+player_2 = "Poisseman"
 
 f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
-##f = open("status battle 2.txt",'r').read()
+##f = open("status battle 1.txt",'r').read()
 
+
+# start reading after comment block that says "THIS IS WHERE THE ACTUAL BATTLE READING STARTS"
 
 
 def DeterminePoisonSource(nickname, trainer):
     print("Determining poison source of " + nickname + " belonging to " + trainer)
+
+    # get the name of the opponent trainer, this is used to make sure the poison wasn't self inflicted
     opp_trainer = player_1
     if trainer == player_1:
         opp_trainer = player_2
@@ -26,6 +31,7 @@ def DeterminePoisonSource(nickname, trainer):
     j = len(p_lines)
     while(j > 0):
         j-=1
+        # look for the line where it was badly poised
         if (nickname + " was badly poisoned!") in p_lines[j]:
             k = j
             while(k > 0):
@@ -49,16 +55,20 @@ def DeterminePoisonSource(nickname, trainer):
                             killer_nickname = p_lines[h].split(" used Toxic Spikes")[0].split("'s ")[-1]
                             return (killer_nickname, True)
 
+                # We are skipping to where the pokemon was poisoned
+                # if we get to the start of the turn and the opponent didn't inflict poison, then
+                # it was self 
                 elif "Turn " in p_lines[k]:
                     return (nickname, False)
             break
-            
+
+        # or the line where it was regularly poisoned
         elif (nickname + " was poisoned!") in p_lines[j]:
             k = j
             while(k > 0):
                 k-=1
                 if opp_trainer in p_lines[k][:len(opp_trainer)+1] and " used " in p_lines[k]:
-                    # loop through all possible TOXIC moves
+                    # loop through all possible POISON inflicting moves
                     for move in MOVES_THAT_POISON:
                         if move in p_lines[k]:
                             print(p_lines[k])
@@ -194,40 +204,52 @@ def DetermineSpikesSource(nickname, trainer):
 
 
 
-components = f.split(" fainted!")[:-1]
+components = f.split(" fainted!")[:-1]  # finds all the times a pokemon died
 for c in components:
     
-    print("NEXT DEATH:")
+    print("NEXT DEATH:")    # for clarity
     
-    orig_lines = c.split('\n')[-10:]
+    orig_lines = c.split('\n')[-10:]    # look at the previous 10 lines
+    
     pokemon_nickname = orig_lines[-1]
 
     # sneaky stuff: splitting the entire text of the battle by
-    #   "XPokemon Fainted" but one letter past 
+    #   "X_Pokemon Fainted" but one letter past - pokemon_nickname[1:]
+    #   this puts the index we use for going through lines a good starting point
+
+    #   the reason we don't use "orig_lines" is because pokemon can die on the same turn
+    #       and the pokemon's "fainted!" lines are one after the other
+    #       for example: "status battle 1.txt"
+    #       
     lines = f.split(pokemon_nickname[1:] + " fainted!")[0].split('\n')[-10:]
 
     # this is what the program prints as proof of the kill
     kill_line = ""
     
-    i = len(lines)
+    i = len(lines) # start i at the last element, we will be looping backwards
     while(i>0):
-        i-=1
+        i-=1    # we actually iterate backwards through the previous lines. this is really important for the way
+                # the code is structured here
+
+        # start by making sure the line even pertains to the pokemon itself
         if pokemon_nickname in lines[i]:
             # Death by Direct Damage
             if "% damage!" in lines[i]:
                 while(i>0):
                     i-=1
-##                    print(lines[i])
                     if " used " in lines[i]:
                         kill_line = lines[i]
                         break
-                break
+                    
+                break # after each if/elif statement, break out of the while loop, because we already have found
+                # the source. This is what allows me to structure the code this way (probably bad practice)
             
             # Death by some type of poison
             elif " was hurt by poison!" in lines[i]:
                 print("poisoned to death")
                 print(lines[i])
-                
+
+                # this section of code determines which trainer the pokemon belongs to, which is (annoyingly) important
                 trainer_name = player_1
                 while(i>0):
                     i-=1
@@ -297,6 +319,7 @@ for c in components:
                     trainer_string = player_2
 
                 killer_nickname = DetermineStealthRockSource(pokemon_nickname, trainer_string)
+                # make the 'kill_line' pretty for printing later
                 kill_line = killer_nickname[1] + "'s " + killer_nickname[0] + " got an indirect kill with Stealth Rock!"
                 break
 
@@ -353,7 +376,8 @@ for c in components:
             print(killer_nickname + " got a DIRECT kill on " + pokemon_nickname + " with Destiny Bond!")
             kill_line = dbond_lines[0]
             
-    
+    # print the 'kill_line'
+    # this is currently for Jabuloso's benefit so he can read what i send, and so i prove the program worked
     print(kill_line)
         
     print(pokemon_nickname + " fainted!")
