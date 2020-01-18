@@ -7,8 +7,8 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 
 # yes, I manually set this for every battle.
-player_1 = "FamSlayer"
-player_2 = "Poisseman"
+player_1 = "Skullex"
+player_2 = "Tan"
 
 f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
 ##f = open("status battle 1.txt",'r').read()
