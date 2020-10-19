@@ -6,12 +6,15 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 
 
-# yes, I manually set this for every battle.
-player_1 = "Skullex"
-player_2 = "Tan"
-
-f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
+##f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
 ##f = open("status battle 1.txt",'r').read()
+f = open("C:/Users/fulle/Desktop/ucs battle reader/UCS Season 2/Spoder vs Ash.txt",'r').read()
+
+
+# get the player names for the battle so I don't have to input them at the start
+first_two_lines = f.split('\n')[:2]
+player_1 = first_two_lines[0].split(" sent out ")[0]
+player_2 = first_two_lines[1].split(" sent out ")[0]
 
 
 # start reading after comment block that says "THIS IS WHERE THE ACTUAL BATTLE READING STARTS"
@@ -201,7 +204,6 @@ def DetermineSpikesSource(nickname, trainer):
 #     THIS IS WHERE THE ACTUAL BATTLE READING STARTS     #
 #                                                        #
 ##########################################################
-
 
 
 components = f.split(" fainted!")[:-1]  # finds all the times a pokemon died

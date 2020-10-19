@@ -1,0 +1,238 @@
+Jo sent out Beliaddon!
+Binyamin sent out Navighast!
+Navighast's Attack fell!
+
+Turn 1
+
+Binyamin withdrew Navighast!
+Binyamin sent out Luxor!
+Jo's Beliaddon used Knock Off!
+It's not very effective...
+Luxor took 21% damage!
+Beliaddon knocked off Luxor's Eviolite!
+
+Turn 2
+
+Jo's Beliaddon used Infernal Blade!
+Luxor took 69% damage!
+Binyamin's Luxor used Thunder Wave!
+Beliaddon was paralyzed!
+
+Turn 3
+
+Binyamin's Luxor used Baton Pass!
+Binyamin withdrew Luxor!
+Binyamin sent out Baariette!
+Beliaddon's Attack fell!
+Jo's Beliaddon used Knock Off!
+It's not very effective...
+Baariette took 5% damage!
+
+Turn 4
+
+Baariette Mega Evolved into Mega Baariette!
+Binyamin's Baariette used Knock Off!
+It's not very effective...
+Beliaddon took 30% damage!
+Baariette's Blood Lust restored its HP a little!
+Baariette knocked off Beliaddon's Charcoal!
+Jo's Beliaddon used Infernal Blade!
+Baariette took 32% damage!
+
+Turn 5
+
+Binyamin's Baariette used Earthquake!
+It's super effective!
+Beliaddon took 69% damage!
+Baariette's Blood Lust restored its HP a little!
+Beliaddon fainted!
+Jo sent out bun!
+
+Turn 6
+
+Binyamin withdrew Baariette!
+Binyamin sent out ThiccMama!
+Jo's bun used Moonblast!
+A critical hit!
+ThiccMama took 51% damage!
+
+Turn 7
+
+Jo's bun used Moonblast!
+ThiccMama took 35% damage!
+Binyamin's ThiccMama used Heal Order!
+ThiccMama's HP was restored.
+
+Turn 8
+
+Jo's bun used Moonblast!
+ThiccMama took 33% damage!
+ThiccMama's Special Attack fell!
+Binyamin's ThiccMama used Quiver Dance!
+ThiccMama's Special Attack rose!
+ThiccMama's Special Defense rose!
+ThiccMama's Speed rose!
+
+Turn 9
+
+Binyamin's ThiccMama used Heal Order!
+ThiccMama's HP was restored.
+Jo's bun used Moonblast!
+ThiccMama took 23% damage!
+ThiccMama's Special Attack fell!
+
+Turn 10
+
+Binyamin's ThiccMama used Quiver Dance!
+ThiccMama's Special Attack rose!
+ThiccMama's Special Defense rose!
+ThiccMama's Speed rose!
+Jo's bun used Moonblast!
+ThiccMama took 17% damage!
+
+Turn 11
+
+Binyamin's ThiccMama used Heal Order!
+ThiccMama's HP was restored.
+Jo's bun used Toxic!
+ThiccMama was badly poisoned!
+ThiccMama was hurt by poison!
+
+Turn 12
+
+Binyamin's ThiccMama used Hydro Pump!
+bun took 34% damage!
+ThiccMama is hurt by its Life Orb!
+Jo's bun used Aura Sphere!
+ThiccMama took 15% damage!
+bun restored a little HP using its Leftovers!
+ThiccMama was hurt by poison!
+
+Turn 13
+
+Binyamin's ThiccMama used Quiver Dance!
+ThiccMama's Special Attack rose!
+ThiccMama's Special Defense rose!
+ThiccMama's Speed rose!
+Jo's bun used Moonblast!
+ThiccMama took 15% damage!
+bun restored a little HP using its Leftovers!
+ThiccMama was hurt by poison!
+
+Turn 14
+
+Binyamin's ThiccMama used Hydro Pump!
+bun avoided the attack!
+Jo's bun used Moonblast!
+ThiccMama took 10% damage!
+ThiccMama fainted!
+bun restored a little HP using its Leftovers!
+Binyamin sent out Cararalm!
+
+Turn 15
+
+Jo's bun used Moonblast!
+Cararalm took 38% damage!
+Cararalm's Special Attack fell!
+Binyamin's Cararalm used Shell Smash!
+Cararalm's Attack rose sharply!
+Cararalm's Special Attack rose sharply!
+Cararalm's Speed rose sharply!
+Cararalm's Defense fell!
+Cararalm's Special Defense fell!
+bun restored a little HP using its Leftovers!
+
+Turn 16
+
+Binyamin's Cararalm used Earthquake!
+bun took 66% damage!
+Jo's bun used Moonblast!
+Cararalm took 61% damage!
+Cararalm fainted!
+bun restored a little HP using its Leftovers!
+Binyamin sent out Luxor!
+
+Turn 17
+
+Binyamin withdrew Luxor!
+Binyamin sent out Neopunk!
+Jo's bun used Moonblast!
+Neopunk took 88% damage!
+bun restored a little HP using its Leftovers!
+
+Turn 18
+
+Binyamin's Neopunk used Instant Crush!
+It's super effective!
+bun took 35% damage!
+bun fainted!
+Jo sent out zap!
+
+Turn 19
+
+zap breaks the mold!
+zap Mega Evolved into Mega Ampharos!
+Binyamin's Neopunk used Instant Crush!
+zap took 39% damage!
+Jo's zap used Power Gem!
+Neopunk took 11% damage!
+Neopunk fainted!
+Binyamin sent out Baariette!
+
+Turn 20
+
+Binyamin's Baariette used Earthquake!
+It's super effective!
+zap took 60% damage!
+Baariette's Blood Lust restored its HP a little!
+zap fainted!
+Jo sent out "broken"!
+
+Turn 21
+
+Jo's "broken" used X-Scissor!
+Baariette took 20% damage!
+Binyamin's Baariette used Ice Punch!
+It's super effective!
+"broken" took 71% damage!
+Baariette's Blood Lust restored its HP a little!
+"broken" restored its health using its Sitrus Berry!
+
+Turn 22
+
+Jo's "broken" used Leaf Blade!
+Baariette took 35% damage!
+Binyamin's Baariette used Ice Punch!
+It's super effective!
+"broken" took 53% damage!
+Baariette's Blood Lust restored its HP a little!
+"broken" fainted!
+Jo sent out spin!
+
+Turn 23
+
+Binyamin's Baariette used Hi Jump Kick!
+It's super effective!
+spin endured the hit!
+spin took 99% damage!
+Baariette's Blood Lust restored its HP a little!
+Jo's spin used Iron Tail!
+Baariette took 36% damage!
+
+Turn 24
+
+Binyamin's Baariette used Knock Off!
+spin took 0% damage!
+Baariette's Blood Lust restored its HP a little!
+Baariette knocked off spin's Occa Berry!
+spin fainted!
+Jo sent out swim!
+
+Turn 25
+
+Binyamin's Baariette used Knock Off!
+It's super effective!
+swim took 100% damage!
+Baariette knocked off swim's Leftovers!
+swim fainted!
+Binyamin won!

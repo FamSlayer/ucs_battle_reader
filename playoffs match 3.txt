@@ -1,0 +1,297 @@
+[17:14:05] Poisseman: gl hf
+Poisseman sent out Kampaï!
+Jabuloso sent out Aku Aku!
+Kampaï floats in the air with its Air Balloon!
+
+Turn 1
+
+Jabuloso withdrew Aku Aku!
+Jabuloso sent out Topeira!
+Topeira breaks the mold!
+Poisseman's Kampaï used Head Smash!
+It's not very effective...
+Topeira took 33% damage!
+Topeira restored a little HP using its Leftovers!
+
+Turn 2
+
+Poisseman's Kampaï used U-turn!
+It's super effective!
+Topeira took 40% damage!
+Poisseman withdrew Kampaï!
+Poisseman sent out Your mom!
+Jabuloso's Topeira used Knock Off!
+Your mom took 60% damage!
+Topeira knocked off Your mom's Life Orb!
+Topeira restored a little HP using its Leftovers!
+
+Turn 3
+
+Jabuloso's Topeira used Protect!
+Topeira protected itself!
+Poisseman's Your mom used Flame Impact!
+Topeira restored a little HP using its Leftovers!
+
+Turn 4
+
+Poisseman's Your mom used Swords Dance!
+Your mom's Attack rose sharply!
+Jabuloso's Topeira used Earthquake!
+It's super effective!
+Your mom took 39% damage!
+Your mom fainted!
+Topeira restored a little HP using its Leftovers!
+Poisseman sent out Mehscartress!
+
+Turn 5
+
+Jabuloso withdrew Topeira!
+Jabuloso sent out Aku Aku!
+Poisseman's Mehscartress used Shell Smash!
+Mehscartress's Attack rose sharply!
+Mehscartress's Special Attack rose sharply!
+Mehscartress's Speed rose sharply!
+Mehscartress's Defense fell!
+Mehscartress's Special Defense fell!
+Mehscartress restored its status using its White Herb!
+
+Turn 6
+
+Poisseman's Mehscartress used Hydro Pump!
+Aku Aku took 52% damage!
+Jabuloso's Aku Aku used Power Whip!
+Mehscartress avoided the attack!
+
+Turn 7
+
+Poisseman's Mehscartress used Hydro Pump!
+Aku Aku took 47% damage!
+Aku Aku fainted!
+Jabuloso sent out Oryx!
+
+Turn 8
+
+Oryx Mega Evolved into Mega Baariette!
+Poisseman's Mehscartress used Hydro Pump!
+Oryx avoided the attack!
+Jabuloso's Oryx used Knock Off!
+Mehscartress took 44% damage!
+
+Turn 9
+
+Poisseman's Mehscartress used Hydro Pump!
+Oryx took 83% damage!
+Jabuloso's Oryx used Drain Punch!
+Mehscartress took 53% damage!
+Mehscartress had its energy drained!
+Oryx absorbed some HP!
+Oryx's Blood Lust restored its HP a little!
+
+Turn 10
+
+Poisseman's Mehscartress used Earth Power!
+Oryx took 52% damage!
+Oryx fainted!
+Jabuloso sent out Boreas!
+
+Turn 11
+
+Poisseman's Mehscartress used Earth Power!
+Boreas took 81% damage!
+Jabuloso's Boreas used U-turn!
+Mehscartress took 1% damage!
+Mehscartress fainted!
+Jabuloso withdrew Boreas!
+Jabuloso sent out Artemis!
+Poisseman sent out Cute leader :3!
+
+Turn 12
+
+Poisseman's Cute leader :3 used U-turn!
+It's not very effective...
+Artemis took 17% damage!
+Poisseman withdrew Cute leader :3!
+Poisseman sent out ¯\_(ツ)_/¯!
+Jabuloso's Artemis used Head Smash!
+It's not very effective...
+¯\_(ツ)_/¯ took 15% damage!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+Artemis restored a little HP using its Leftovers!
+
+Turn 13
+
+Poisseman's ¯\_(ツ)_/¯ used Toxic!
+But it failed!
+Jabuloso's Artemis used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+Artemis restored a little HP using its Leftovers!
+
+Turn 14
+
+Jabuloso withdrew Artemis!
+Jabuloso sent out Topeira!
+Topeira breaks the mold!
+Poisseman's ¯\_(ツ)_/¯ used Toxic!
+Topeira was badly poisoned!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+Topeira restored a little HP using its Leftovers!
+Topeira was hurt by poison!
+
+Turn 15
+
+Poisseman withdrew ¯\_(ツ)_/¯!
+Poisseman sent out Cute leader :3!
+Pointed stones dug into Cute leader :3!
+Jabuloso's Topeira used Knock Off!
+It's not very effective...
+Cute leader :3 took 31% damage!
+Topeira knocked off Cute leader :3's Choice Band!
+Topeira restored a little HP using its Leftovers!
+Topeira was hurt by poison!
+
+Turn 16
+
+Jabuloso withdrew Topeira!
+Jabuloso sent out Artemis!
+Poisseman's Cute leader :3 used Superpower!
+It's super effective!
+Artemis took 53% damage!
+Cute leader :3's Attack fell!
+Cute leader :3's Defense fell!
+Artemis restored a little HP using its Leftovers!
+
+Turn 17
+
+Jabuloso withdrew Artemis!
+Jabuloso sent out Topeira!
+Topeira breaks the mold!
+Poisseman's Cute leader :3 used U-turn!
+It's super effective!
+Topeira took 35% damage!
+Poisseman withdrew Cute leader :3!
+Poisseman sent out Tiko for dinner!
+Pointed stones dug into Tiko for dinner!
+Topeira restored a little HP using its Leftovers!
+Topeira was hurt by poison!
+
+Turn 18
+
+Poisseman's Tiko for dinner used Quiver Dance!
+Tiko for dinner's Special Attack rose!
+Tiko for dinner's Special Defense rose!
+Tiko for dinner's Speed rose!
+Jabuloso's Topeira used Toxic!
+Tiko for dinner was badly poisoned!
+Topeira restored a little HP using its Leftovers!
+Tiko for dinner was hurt by poison!
+Topeira was hurt by poison!
+
+Turn 19
+
+Poisseman's Tiko for dinner used Heal Order!
+Tiko for dinner's HP was restored.
+Jabuloso's Topeira used Knock Off!
+A critical hit!
+Tiko for dinner took 37% damage!
+Topeira is hurt by Tiko for dinner's Rocky Helmet!
+Topeira fainted!
+Tiko for dinner was hurt by poison!
+Jabuloso sent out Cerynitis!
+
+Turn 20
+
+Jabuloso's Cerynitis used Flame Impact!
+It's super effective!
+Tiko for dinner took 42% damage!
+Cerynitis is hurt by Tiko for dinner's Rocky Helmet!
+Poisseman's Tiko for dinner used Thunderbolt!
+Cerynitis took 37% damage!
+Tiko for dinner was hurt by poison!
+Tiko for dinner fainted!
+Poisseman sent out Kampaï!
+Kampaï floats in the air with its Air Balloon!
+Pointed stones dug into Kampaï!
+
+Turn 21
+
+Jabuloso withdrew Cerynitis!
+Jabuloso sent out Artemis!
+Poisseman's Kampaï used Volt Tackle!
+Artemis took 40% damage!
+Artemis restored a little HP using its Leftovers!
+
+Turn 22
+
+Poisseman's Kampaï used Volt Tackle!
+Artemis took 13% damage!
+Artemis fainted!
+Jabuloso sent out Boreas!
+
+Turn 23
+
+Poisseman withdrew Kampaï!
+Poisseman sent out Cute leader :3!
+Pointed stones dug into Cute leader :3!
+Jabuloso's Boreas used Frost Breath!
+A critical hit!
+Cute leader :3 took 18% damage!
+Cute leader :3 fainted!
+Poisseman sent out ¯\_(ツ)_/¯!
+Pointed stones dug into ¯\_(ツ)_/¯!
+
+Turn 24
+
+Jabuloso's Boreas used Frost Breath!
+It's not very effective...
+A critical hit!
+¯\_(ツ)_/¯ took 20% damage!
+Poisseman's ¯\_(ツ)_/¯ used Toxic!
+Boreas was badly poisoned!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+Boreas was hurt by poison!
+
+Turn 25
+
+Jabuloso's Boreas used Frost Breath!
+¯\_(ツ)_/¯ avoided the attack!
+Poisseman's ¯\_(ツ)_/¯ used Flash Cannon!
+It's super effective!
+Boreas took 12% damage!
+Boreas fainted!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+Jabuloso sent out Cerynitis!
+
+Turn 26
+
+Jabuloso's Cerynitis used Flame Impact!
+It's super effective!
+¯\_(ツ)_/¯ took 78% damage!
+Poisseman's ¯\_(ツ)_/¯ used Flash Cannon!
+It's not very effective...
+Cerynitis took 17% damage!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+
+Turn 27
+
+Jabuloso's Cerynitis used Flame Impact!
+It's super effective!
+¯\_(ツ)_/¯ took 13% damage!
+¯\_(ツ)_/¯ fainted!
+Poisseman sent out Kampaï!
+Kampaï floats in the air with its Air Balloon!
+Pointed stones dug into Kampaï!
+
+Turn 28
+
+Jabuloso's Cerynitis used Flame Impact!
+It's not very effective...
+Kampaï took 38% damage!
+Kampaï's Air Balloon popped!
+Poisseman's Kampaï used Volt Tackle!
+Cerynitis took 28% damage!
+Cerynitis fainted!
+
+Poisseman won!
+
+[17:22:47] Poisseman: gg
