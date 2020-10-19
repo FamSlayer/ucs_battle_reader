@@ -1,0 +1,213 @@
+Blade sent out Nimfauna!
+Poisseman sent out Cute leader!
+
+Turn 1
+
+Poisseman's Cute leader used Play Rough!
+A critical hit!
+Nimfauna took 72% damage!
+Blade's Nimfauna used U-turn!
+It's not very effective...
+Cute leader took 7% damage!
+Blade withdrew Nimfauna!
+Blade sent out demon bug!
+
+Turn 2
+
+Poisseman withdrew Cute leader!
+Poisseman sent out ¯\_(ツ)_/¯!
+Blade's demon bug used U-turn!
+¯\_(ツ)_/¯ took 46% damage!
+Blade withdrew demon bug!
+Blade sent out vrooom!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+
+Turn 3
+
+Poisseman withdrew ¯\_(ツ)_/¯!
+Poisseman sent out Bitenlong!
+Blade's vrooom used Flame Impact!
+It's not very effective...
+Bitenlong took 11% damage!
+vrooom is hurt by Bitenlong's Rocky Helmet!
+vrooom is hurt by its Life Orb!
+
+Turn 4
+
+Blade withdrew vrooom!
+Blade sent out S51-F!
+Poisseman's Bitenlong used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+
+Turn 5
+
+Poisseman withdrew Bitenlong!
+Poisseman sent out ITfable!
+Blade's S51-F used U-turn!
+It's not very effective...
+ITfable took 4% damage!
+Blade withdrew S51-F!
+Blade sent out black sheep!
+Pointed stones dug into black sheep!
+black sheep was burned!
+
+Turn 6
+
+Poisseman's ITfable used Focus Blast!
+black sheep avoided the attack!
+Blade's black sheep used Crunch!
+It's super effective!
+A critical hit!
+ITfable took 95% damage!
+ITfable fainted!
+black sheep was hurt by its burn!
+Poisseman sent out Cute leader!
+
+Turn 7
+
+Blade withdrew black sheep!
+Blade sent out S51-F!
+Pointed stones dug into S51-F!
+Poisseman's Cute leader used Play Rough!
+It's not very effective...
+S51-F took 14% damage!
+
+Turn 8
+
+Poisseman's Cute leader used Sleep Powder!
+S51-F fell asleep!
+S51-F is fast asleep.
+
+Turn 9
+
+Poisseman's Cute leader used Reflect!
+Reflect raised your team's defense!
+S51-F is fast asleep.
+
+Turn 10
+
+Poisseman's Cute leader used U-turn!
+S51-F took 20% damage!
+Poisseman withdrew Cute leader!
+Poisseman sent out Not Aiden!
+S51-F woke up!
+Blade's S51-F used Toxic!
+Not Aiden was badly poisoned!
+Not Aiden was hurt by poison!
+
+Turn 11
+
+Poisseman's Not Aiden used Knock Off!
+It's super effective!
+S51-F took 58% damage!
+Not Aiden knocked off S51-F's Eviolite!
+S51-F fainted!
+Not Aiden was hurt by poison!
+Blade sent out black sheep!
+Pointed stones dug into black sheep!
+
+Turn 12
+
+Poisseman withdrew Not Aiden!
+Poisseman sent out Bitenlong!
+Blade's black sheep used Ice Punch!
+It's super effective!
+A critical hit!
+Bitenlong took 88% damage!
+black sheep is hurt by Bitenlong's Rocky Helmet!
+Bitenlong fainted!
+black sheep was hurt by its burn!
+Poisseman sent out Cute leader!
+
+Turn 13
+
+Blade withdrew black sheep!
+Blade sent out Nimfauna!
+Pointed stones dug into Nimfauna!
+Poisseman's Cute leader used Play Rough!
+Nimfauna took 3% damage!
+Nimfauna fainted!
+Your team's Reflect wore off!
+Your team's Reflect wore off!
+Blade sent out vrooom!
+Pointed stones dug into vrooom!
+
+Turn 14
+
+Blade's vrooom used Flame Impact!
+It's super effective!
+Cute leader took 92% damage!
+Cute leader fainted!
+vrooom is hurt by its Life Orb!
+Poisseman sent out Japan bunny!
+
+Turn 15
+
+Blade's vrooom used U-turn!
+Japan bunny took 24% damage!
+vrooom is hurt by its Life Orb!
+Blade withdrew vrooom!
+Blade sent out black sheep!
+Pointed stones dug into black sheep!
+Poisseman's Japan bunny used Stone Edge!
+It's not very effective...
+black sheep took 13% damage!
+black sheep was hurt by its burn!
+
+Turn 16
+
+Poisseman's Japan bunny used Low Kick!
+It's super effective!
+black sheep took 13% damage!
+Japan bunny's Attack rose!
+black sheep fainted!
+[15:58:00] Tan: extensive calcs occur I guess
+Blade sent out vrooom!
+Pointed stones dug into vrooom!
+
+Turn 17
+
+Blade's vrooom used Flame Impact!
+Japan bunny took 31% damage!
+vrooom is hurt by its Life Orb!
+vrooom fainted!
+Poisseman's Japan bunny used Stone Edge!
+But it failed!
+Blade sent out demon bug!
+Pointed stones dug into demon bug!
+
+Turn 18
+
+Poisseman withdrew Japan bunny!
+Poisseman sent out ¯\_(ツ)_/¯!
+Blade's demon bug used Brick Break!
+¯\_(ツ)_/¯ took 32% damage!
+¯\_(ツ)_/¯ restored a little HP using its Leftovers!
+
+Turn 19
+
+Blade's demon bug used Brick Break!
+¯\_(ツ)_/¯ took 33% damage!
+demon bug's Attack rose!
+¯\_(ツ)_/¯ fainted!
+Poisseman sent out Not Aiden!
+
+Turn 20
+
+Poisseman's Not Aiden used ExtremeSpeed!
+demon bug took 50% damage!
+demon bug fainted!
+Not Aiden was hurt by poison!
+Blade sent out Silent!
+Pointed stones dug into Silent!
+
+Turn 21
+
+Poisseman's Not Aiden used ExtremeSpeed!
+Silent took 87% damage!
+Silent fainted!
+
+Poisseman won!
+
+[15:59:56] Blade: gg
+[15:59:57] Poisseman: gg

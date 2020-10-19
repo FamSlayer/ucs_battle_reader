@@ -8,7 +8,7 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 ##f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
 ##f = open("status battle 1.txt",'r').read()
-f = open("C:/Users/fulle/Desktop/ucs battle reader/UCS Season 2/Spoder vs Ash.txt",'r').read()
+f = open("C:/Users/fulle/Desktop/ucs battle reader/UCS Season 2/Week 1/Blade vs Poisseman.txt",'r').read()
 
 
 # get the player names for the battle so I don't have to input them at the start
@@ -355,7 +355,7 @@ for c in components:
                 kill_line = pokemon_nickname + " died from Life Orb recoil!"
                 break
 
-            elif " is hurt by " in lines[i] and "'s Rocky Helmet!" in lines[i]:
+            elif " is hurt by " in lines[i] and "'s Rocky Helmet!" in lines[i] and not pokemon_nickname in lines[i].split(" is hurt by ")[-1]:
                 print("rockey helmet kill")
                 killer_nickname = lines[i].split(" is hurt by ")[-1].split("'s Rocky Helmet!")[0]
                 kill_line = killer_nickname + " got a kill with Rocky Helmet!"
