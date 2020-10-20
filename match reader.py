@@ -8,14 +8,26 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 ##f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
 ##f = open("status battle 1.txt",'r').read()
-f = open("C:/Users/fulle/Desktop/ucs battle reader/UCS Season 2/Week 1/Blade vs Poisseman.txt",'r').read()
+f = open("C:/Users/fulle/Desktop/ucs battle reader/Eneko vs Poisseman.txt",'r').read()
 
 
 # get the player names for the battle so I don't have to input them at the start
-first_two_lines = f.split('\n')[:2]
-player_1 = first_two_lines[0].split(" sent out ")[0]
-player_2 = first_two_lines[1].split(" sent out ")[0]
+lines = f.split('\n')
+player_1 = lines[0].split(" sent out ")[0]
+player_2 = lines[1].split(" sent out ")[0]
 
+found_first = False
+found_second = False
+for l in lines:
+    if found_first and not found_second:
+        if " sent out " in l:
+            player_2 = l.split(" sent out ")[0]
+            found_second = True
+            
+    if not found_first:
+        if " sent out " in l:
+            player_1 = l.split(" sent out ")[0]
+            found_first = True
 
 # start reading after comment block that says "THIS IS WHERE THE ACTUAL BATTLE READING STARTS"
 
