@@ -8,7 +8,7 @@ MOVES_THAT_POISON = ["Gunk Shot", "Poison Fang", "Poison Gas", "Poison Jab", "Po
 
 ##f = open(player_1 + " vs " + player_2 + ".txt",'r').read()
 ##f = open("status battle 1.txt",'r').read()
-f = open("C:/Users/fulle/Desktop/ucs battle reader/Eneko vs Poisseman.txt",'r').read()
+f = open("C:/Users/fulle/Desktop/ucs battle reader/UCS Season 2/Week 3/DanielG vs Krystian.txt",'r').read()
 
 
 # get the player names for the battle so I don't have to input them at the start
@@ -208,7 +208,35 @@ def DetermineSpikesSource(nickname, trainer):
 
     return ("none",trainer)
 
+def DetermineSandstormSource(nickname, trainer):
+    sandstorm_canned_text = "A sandstorm kicked up!"
+    
+    split_string = nickname + " is buffeted by the sandstorm!\n" + nickname + " fained!"
+    prior_lines = f.split(split_string)[0].split('\n')
 
+    # get opponent's trainer name
+    opponent = player_1
+    if trainer == player_1:
+        opponent = player_2
+
+    sent_out_line = opponent + " sent out "
+    used_sandstorm_line = opponent + " used Sandstorm!"
+    
+    # find last time opponent used spikes
+    i = len(prior_lines)
+    while(i>0):
+        i-=1
+        if sandstorm_canned_text in prior_lines[i]:
+            if sent_out_line in prior_lines[i-1]:
+                killer_nickname = prior_lines[i-1].split(sent_out_line)[1].split("!")[0]
+                return (killer_nickname, opponent)
+            if used_sandstorm_line in prior_lines[i-1]:
+                killer_nickname = prior_lines[i-1].split(used_sandstorm_line)[0]
+                return (killer_nickname, opponent)
+        
+
+    return ("none",trainer)
+    
 
 
 ##########################################################
@@ -236,6 +264,7 @@ for c in components:
     #       for example: "status battle 1.txt"
     #       
     lines = f.split(pokemon_nickname[1:] + " fainted!")[0].split('\n')[-10:]
+    all_lines = f.split(pokemon_nickname[1:] + " fainted!")[0].split('\n')
 
     # this is what the program prints as proof of the kill
     kill_line = ""
@@ -244,9 +273,10 @@ for c in components:
     while(i>0):
         i-=1    # we actually iterate backwards through the previous lines. this is really important for the way
                 # the code is structured here
-
+        #print(lines[i])
         # start by making sure the line even pertains to the pokemon itself
-        if pokemon_nickname in lines[i]:
+        # the second and also eliminates any messages spectators/players send during the battle itself
+        if pokemon_nickname in lines[i] and lines[i][0] != "[" :
             # Death by Direct Damage
             if "% damage!" in lines[i]:
                 while(i>0):
@@ -349,6 +379,23 @@ for c in components:
                 killer_nickname = DetermineSpikesSource(pokemon_nickname, trainer_string)
                 kill_line = killer_nickname[1] + "'s " + killer_nickname[0] + " got an indirect kill with Spikes!"
                 break
+
+            elif " is buffeted by the sandstorm!" in lines[i]:
+                print("sandstorm death :)")
+
+                sent_out_canned = " sent out " + pokemon_nickname
+                trainer_name = player_1
+                i = len(all_lines)
+                while(i>0):
+                    i-=1
+                    if sent_out_canned in all_lines[i]:
+                        trainer_name = all_lines[i].split(" sent out ")[0]
+                        break
+
+                killer_nickname = DetermineSandstormSource(pokemon_nickname, trainer_name)
+                kill_line = killer_nickname[1] + "'s " + killer_nickname[0] + " got an indirect kill by whipping up a sandstorm!"
+                break
+                
 
             elif " used Memento!" in lines[i] or " used Explosion!" in lines[i] or " used Final Gambit!" in lines[i] or " used Fission Burst!" in lines[i] or " used Struggle!" in lines[i]:
                 print("self kill!")

@@ -1,0 +1,247 @@
+Jo sent out Beliaddon!
+DanielG sent out Gary Prime!
+Gary Prime's Attack fell!
+A sandstorm kicked up!
+
+Turn 1
+
+Jo withdrew Beliaddon!
+Jo sent out "broken"!
+Gary Prime restored its status using its White Herb!
+DanielG's Gary Prime used Surf!
+It's not very effective...
+"broken" took 37% damage!
+The sandstorm rages.
+"broken" is buffeted by the sandstorm!
+
+Turn 2
+
+DanielG withdrew Gary Prime!
+DanielG sent out Winds of Change!
+Jo's "broken" used Leaf Blade!
+It's not very effective...
+Winds of Change took 25% damage!
+The sandstorm rages.
+"broken" is buffeted by the sandstorm!
+Winds of Change is buffeted by the sandstorm!
+Winds of Change restored a little HP using its Leftovers!
+
+Turn 3
+
+DanielG's Winds of Change used U-turn!
+It's super effective!
+"broken" took 21% damage!
+"broken" restored its health using its Sitrus Berry!
+DanielG withdrew Winds of Change!
+DanielG sent out Oops All Status!
+Jo's "broken" used X-Scissor!
+It's not very effective...
+Oops All Status took 5% damage!
+The sandstorm rages.
+"broken" is buffeted by the sandstorm!
+Oops All Status is buffeted by the sandstorm!
+Oops All Status restored a little HP using its Leftovers!
+
+Turn 4
+
+DanielG's Oops All Status used Calm Mind!
+Oops All Status's Special Attack rose!
+Oops All Status's Special Defense rose!
+Jo's "broken" used Knock Off!
+It's super effective!
+A critical hit!
+Oops All Status took 87% damage!
+"broken" knocked off Oops All Status's Leftovers!
+The sandstorm rages.
+"broken" is buffeted by the sandstorm!
+Oops All Status is buffeted by the sandstorm!
+
+Turn 5
+
+Jo's "broken" used Knock Off!
+It's super effective!
+Oops All Status took 1% damage!
+Oops All Status fainted!
+The sandstorm subsided.
+DanielG sent out Kevlar!
+
+Turn 6
+
+Jo withdrew "broken"!
+Jo sent out swim!
+DanielG's Kevlar used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+
+Turn 7
+
+DanielG withdrew Kevlar!
+DanielG sent out Winds of Change!
+Jo's swim used Surf!
+It's not very effective...
+Winds of Change took 24% damage!
+Winds of Change restored a little HP using its Leftovers!
+
+Turn 8
+
+DanielG's Winds of Change used Encore!
+Jo's swim used Surf!
+It's not very effective...
+Winds of Change took 24% damage!
+Winds of Change restored a little HP using its Leftovers!
+
+Turn 9
+
+DanielG's Winds of Change used Leech Seed!
+swim was seeded!
+Jo's swim used Surf!
+It's not very effective...
+Winds of Change took 28% damage!
+Winds of Change restored a little HP using its Leftovers!
+swim's health is sapped by Leech Seed!
+
+Turn 10
+
+DanielG's Winds of Change used Moonblast!
+swim took 15% damage!
+swim's Special Attack fell!
+Jo's swim used Surf!
+It's not very effective...
+Winds of Change took 18% damage!
+swim restored a little HP using its Leftovers!
+Winds of Change restored a little HP using its Leftovers!
+swim's health is sapped by Leech Seed!
+swim's Encore ended!
+
+Turn 11
+
+DanielG's Winds of Change used Moonblast!
+swim took 15% damage!
+Jo's swim used Psychic!
+Winds of Change took 30% damage!
+Winds of Change fainted!
+swim restored a little HP using its Leftovers!
+DanielG sent out Gary Prime!
+A sandstorm kicked up!
+
+Turn 12
+
+Jo withdrew swim!
+swim was freed from Leech Seed!
+Jo sent out "broken"!
+Pointed stones dug into "broken"!
+DanielG's Gary Prime used Shell Smash!
+Gary Prime's Attack rose sharply!
+Gary Prime's Special Attack rose sharply!
+Gary Prime's Speed rose sharply!
+Gary Prime's Defense fell!
+Gary Prime's Special Defense fell!
+The sandstorm rages.
+"broken" is buffeted by the sandstorm!
+
+Turn 13
+
+DanielG's Gary Prime used Ice Beam!
+It's super effective!
+"broken" took 23% damage!
+"broken" fainted!
+The sandstorm rages.
+Jo sent out bun!
+
+Turn 14
+
+DanielG's Gary Prime used Surf!
+bun took 69% damage!
+Jo's bun used Moonblast!
+Gary Prime took 90% damage!
+Gary Prime's Special Attack fell!
+The sandstorm rages.
+bun restored a little HP using its Leftovers!
+
+Turn 15
+
+Jo's bun used Protect!
+bun protected itself!
+DanielG's Gary Prime used Surf!
+The sandstorm rages.
+bun restored a little HP using its Leftovers!
+
+Turn 16
+
+DanielG's Gary Prime used Surf!
+A critical hit!
+bun took 42% damage!
+bun fainted!
+The sandstorm subsided.
+Jo sent out swim!
+Pointed stones dug into swim!
+
+Turn 17
+
+DanielG's Gary Prime used Earth Power!
+swim took 37% damage!
+Jo's swim used Psychic!
+Gary Prime took 9% damage!
+Gary Prime fainted!
+swim restored a little HP using its Leftovers!
+DanielG sent out Kevlar!
+
+Turn 18
+
+DanielG's Kevlar used Knock Off!
+It's super effective!
+swim took 12% damage!
+Kevlar knocked off swim's Leftovers!
+swim fainted!
+Jo sent out Beliaddon!
+Pointed stones dug into Beliaddon!
+Kevlar's Attack fell!
+
+Turn 19
+
+DanielG's Kevlar used Earthquake!
+It's super effective!
+Beliaddon took 50% damage!
+Jo's Beliaddon used Earthquake!
+It's super effective!
+Kevlar hung on using its Focus Sash!
+Kevlar took 99% damage!
+
+Turn 20
+
+DanielG's Kevlar used Earthquake!
+It's super effective!
+Beliaddon took 24% damage!
+Beliaddon fainted!
+Jo sent out zap!
+Pointed stones dug into zap!
+
+Turn 21
+
+zap breaks the mold!
+zap Mega Evolved into Mega Ampharos!
+DanielG's Kevlar used Earthquake!
+It's super effective!
+zap took 50% damage!
+Jo's zap used Dragon Pulse!
+Kevlar took 0% damage!
+Kevlar fainted!
+DanielG sent out Gut Check!
+
+Turn 22
+
+Gut Check Mega Evolved into Mega Drilgann!
+DanielG's Gut Check used Earthquake!
+It's super effective!
+zap took 36% damage!
+zap fainted!
+Jo sent out spin!
+Pointed stones dug into spin!
+
+Turn 23
+
+DanielG's Gut Check used Earthquake!
+It's super effective!
+spin took 93% damage!
+spin fainted!
+
+DanielG won!

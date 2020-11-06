@@ -1,0 +1,279 @@
+[23:51:36] Tan joined!
+[23:51:40] DanielG joined!
+[23:51:43] Poisseman joined!
+[23:51:54] Binyamin joined!
+[23:52:15] Blade: start now?
+[23:52:22] Binyamin: so who you rooting for tan?
+[23:52:52] Spoder: ready
+[23:52:53] Tan: depends on movesets
+[23:52:58] Blade: glhf
+[23:53:01] Spoder: You too
+Blade sent out THIS IS THE DR-!
+Spoder sent out Ragnarok!
+THIS IS THE DR- breaks the mold!
+THIS IS THE DR-'s Attack fell!
+
+Turn 1
+
+Spoder withdrew Ragnarok!
+Spoder sent out Uglybug!
+Blade's THIS IS THE DR- used Superpower!
+It's not very effective...
+Uglybug took 3% damage!
+THIS IS THE DR-'s Attack fell!
+THIS IS THE DR-'s Defense fell!
+
+Turn 2
+
+Blade's THIS IS THE DR- used Knock Off!
+It's not very effective...
+Uglybug took 6% damage!
+THIS IS THE DR- knocked off Uglybug's Eviolite!
+Spoder's Uglybug used U-turn!
+It's super effective!
+THIS IS THE DR- took 50% damage!
+Spoder withdrew Uglybug!
+Spoder sent out Hanuman!
+THIS IS THE DR- restored a little HP using its Leftovers!
+
+Turn 3
+
+Spoder's Hanuman used Close Combat!
+It's super effective!
+THIS IS THE DR- took 55% damage!
+Hanuman's Defense fell!
+Hanuman's Special Defense fell!
+THIS IS THE DR- fainted!
+Blade sent out Vesuvius!
+
+Turn 4
+
+Spoder withdrew Hanuman!
+Spoder sent out Uglybug!
+Blade's Vesuvius used Eruption!
+It's super effective!
+Uglybug took 89% damage!
+Uglybug fainted!
+Spoder sent out El Macho!
+
+Turn 5
+
+[23:55:00] Binyamin left!
+[23:55:09] Binyamin joined!
+Spoder's El Macho used Close Combat!
+Vesuvius took 100% damage!
+El Macho's Defense fell!
+El Macho's Special Defense fell!
+Vesuvius fainted!
+Blade sent out demon bug!
+
+Turn 6
+
+Spoder withdrew El Macho!
+Spoder sent out Ragnarok!
+demon bug's Attack fell!
+Blade's demon bug used Swords Dance!
+demon bug's Attack rose sharply!
+
+Turn 7
+
+Spoder withdrew Ragnarok!
+Spoder sent out Bailey!
+Blade's demon bug used Drill Run!
+Bailey took 49% damage!
+
+Turn 8
+
+[23:56:58] Binyamin left!
+Blade's demon bug used Drill Run!
+[23:57:40] Binyamin joined!
+Bailey took 50% damage!
+Bailey fainted!
+Spoder sent out Hanuman!
+
+Turn 9
+
+Spoder's Hanuman used Flame Impact!
+It's super effective!
+A critical hit!
+demon bug hung on using its Focus Sash!
+demon bug took 99% damage!
+Blade's demon bug used Acrobatics!
+It's super effective!
+Hanuman took 100% damage!
+Hanuman fainted!
+Spoder sent out Ragnarok!
+demon bug's Attack fell!
+
+Turn 10
+
+Blade withdrew demon bug!
+Blade sent out Warrior!
+Spoder's Ragnarok used Rock Slide!
+It's not very effective...
+Warrior took 14% damage!
+Ragnarok is hurt by its Life Orb!
+
+Turn 11
+
+Warrior Mega Evolved into Mega Metalynx!
+Spoder's Ragnarok used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+Blade's Warrior used Earthquake!
+It's super effective!
+Ragnarok took 77% damage!
+
+Turn 12
+
+[23:59:05] Poisseman: Actan doesn't have Stone edge ?
+Spoder withdrew Ragnarok!
+Spoder sent out Smirnoff!
+It started to hail!
+Blade's Warrior used Earthquake!
+Smirnoff took 46% damage!
+The hail crashes down.
+Warrior is buffeted by the hail!
+
+Turn 13
+
+Spoder's Smirnoff used Blizzard!
+Warrior took 45% damage!
+Blade's Warrior used Meteor Mash!
+Smirnoff took 53% damage!
+Warrior's Attack rose!
+Smirnoff fainted!
+The hail crashes down.
+Warrior is buffeted by the hail!
+Spoder sent out El Macho!
+
+Turn 14
+
+Spoder's El Macho used Close Combat!
+It's super effective!
+Warrior took 27% damage!
+El Macho's Defense fell!
+El Macho's Special Defense fell!
+Warrior fainted!
+The hail crashes down.
+El Macho is buffeted by the hail!
+Blade sent out demon bug!
+Pointed stones dug into demon bug!
+demon bug fainted!
+Blade sent out Pied Piper!
+Pointed stones dug into Pied Piper!
+
+Turn 15
+
+Spoder withdrew El Macho!
+Spoder sent out Ragnarok!
+Pied Piper's Attack fell!
+Blade's Pied Piper used Draco Meteor!
+It's not very effective...
+Ragnarok took 12% damage!
+Pied Piper's Special Attack harshly fell!
+Ragnarok fainted!
+The hail crashes down.
+Pied Piper is buffeted by the hail!
+Pied Piper restored a little HP using its Leftovers!
+Spoder sent out El Macho!
+
+Turn 16
+
+Blade withdrew Pied Piper!
+Blade sent out Silent!
+Pointed stones dug into Silent!
+Spoder's El Macho used Earthquake!
+Silent took 65% damage!
+The hail stopped.
+
+Turn 17
+
+Spoder's El Macho used Earthquake!
+Silent took 22% damage!
+Silent fainted!
+Blade sent out Pied Piper!
+Pointed stones dug into Pied Piper!
+
+Turn 18
+
+Spoder's El Macho used Earthquake!
+Pied Piper avoided the attack!
+Blade's Pied Piper used Draco Meteor!
+El Macho took 46% damage!
+Pied Piper's Special Attack harshly fell!
+Pied Piper restored a little HP using its Leftovers!
+
+Turn 19
+
+[0:01:10] Spoder: FUCK
+Spoder's El Macho used Earthquake!
+Pied Piper took 34% damage!
+Blade's Pied Piper used Wish!
+Pied Piper restored a little HP using its Leftovers!
+
+Turn 20
+
+Spoder's El Macho used Earthquake!
+Pied Piper took 37% damage!
+Blade's Pied Piper used Draco Meteor!
+El Macho took 23% damage!
+Pied Piper's Special Attack harshly fell!
+Pied Piper's wish came true!
+Pied Piper restored a little HP using its Leftovers!
+
+Turn 21
+
+Spoder's El Macho used Earthquake!
+Pied Piper avoided the attack!
+Blade's Pied Piper used Wish!
+Pied Piper restored a little HP using its Leftovers!
+
+Turn 22
+
+Spoder's El Macho used Earthquake!
+[0:01:35] Binyamin: another one
+Pied Piper took 35% damage!
+Blade's Pied Piper used Draco Meteor!
+El Macho avoided the attack!
+Pied Piper's wish came true!
+
+Turn 23
+
+Spoder's El Macho used Earthquake!
+Pied Piper took 40% damage!
+Blade's Pied Piper used Wish!
+Pied Piper restored a little HP using its Leftovers!
+
+Turn 24
+
+Spoder's El Macho used Earthquake!
+Pied Piper took 40% damage!
+Blade's Pied Piper used Draco Meteor!
+El Macho took 14% damage!
+Pied Piper's Special Attack harshly fell!
+Pied Piper's wish came true!
+Pied Piper restored a little HP using its Leftovers!
+
+Turn 25
+
+Spoder's El Macho used Earthquake!
+Pied Piper took 41% damage!
+Blade's Pied Piper used Wish!
+Pied Piper restored a little HP using its Leftovers!
+
+Turn 26
+
+Spoder's El Macho used Earthquake!
+Pied Piper avoided the attack!
+Blade's Pied Piper used Draco Meteor!
+El Macho took 8% damage!
+El Macho fainted!
+
+Blade won!
+
+[0:02:06] Spoder: gg
+[0:02:08] Blade: gg
+[0:02:09] Binyamin: gg
+[0:02:10] Poisseman: gg
+[0:02:14] DanielG: gg
+[0:02:19] Poisseman: That was close
